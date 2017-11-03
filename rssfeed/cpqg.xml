@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>产品求购</title>
+    <link>http://localhost:8080/gdzyzmmv2/elecBusiness/buyInfo.action</link>
+    <description>产品求购</description>
+    <language>zh-ch</language>
+    <copyright>广东省专业镇信息服务平台</copyright>
+    <pubDate>Wed, 06 May 2015 01:08:15 GMT</pubDate>
+    <dc:date>2015-05-06T01:08:15Z</dc:date>
+    <dc:language>zh-ch</dc:language>
+    <dc:rights>广东省专业镇信息服务平台</dc:rights>
+    <item>
+      <title>菊花盆栽</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014051212313900001&amp;buyerid=2014050714594000000</link>
+      <description>急需求购小量盆菊花</description>
+      <category>产品求购</category>
+      <pubDate>Mon, 12 May 2014 04:31:39 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014051212313900001&amp;buyerid=2014050714594000000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T04:31:39Z</dc:date>
+    </item>
+    <item>
+      <title>鲜桃</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014051211302500010&amp;buyerid=2014050714594000000</link>
+      <description>有出口经验、产品有包装、能开正规发票和商检的优先考虑</description>
+      <category>产品求购</category>
+      <pubDate>Mon, 12 May 2014 03:30:25 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014051211302500010&amp;buyerid=2014050714594000000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T03:30:25Z</dc:date>
+    </item>
+    <item>
+      <title>大豆</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014051212351000002&amp;buyerid=2014050714594000000</link>
+      <description>现面向全国收购玉米小麦大豆油糠棉粕</description>
+      <category>产品求购</category>
+      <pubDate>Mon, 12 May 2014 04:35:10 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014051212351000002&amp;buyerid=2014050714594000000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T04:35:10Z</dc:date>
+    </item>
+    <item>
+      <title>蛤蜊</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014050715041200001&amp;buyerid=2014050714594000000</link>
+      <description>好吃</description>
+      <category>产品求购</category>
+      <pubDate>Wed, 07 May 2014 07:04:12 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014050715041200001&amp;buyerid=2014050714594000000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-07T07:04:12Z</dc:date>
+    </item>
+    <item>
+      <title>杏仁</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014051212241400000&amp;buyerid=2014050714594000000</link>
+      <description>我公司大量求购杏仁，预付货款现金提货</description>
+      <category>产品求购</category>
+      <pubDate>Mon, 12 May 2014 04:24:14 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2014051212241400000&amp;buyerid=2014050714594000000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T04:24:14Z</dc:date>
+    </item>
+    <item>
+      <title>龙眼</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2015052410180000002&amp;buyerid=2013082511035900014</link>
+      <description>龙眼果实中含有50%—70%的水分，又含有各种营养物质，如糖、蛋白质、维生素等，这是微生物天然的优质培养基。</description>
+      <category>产品求购</category>
+      <pubDate>Sun, 24 May 2015 02:18:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2015052410180000002&amp;buyerid=2013082511035900014</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-05-24T02:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>香蕉</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2015052410204000003&amp;buyerid=2013082511035900014</link>
+      <description>香蕉是国内外市场上经济效益最显著的水果产品。香蕉为草本果树，速生快长、投产年限短、产量高</description>
+      <category>产品求购</category>
+      <pubDate>Sun, 24 May 2015 02:20:40 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/buydetail.action?id=2015052410204000003&amp;buyerid=2013082511035900014</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-05-24T02:20:40Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

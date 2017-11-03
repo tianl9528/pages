@@ -1,0 +1,49 @@
+.navbar-brand{
+	color: #fff;
+}
+.yy_daohang{
+	width: 960px;
+	margin-left: -15px;
+	margin-bottom: 0px;
+	padding-left: 15px;
+}
+.yy_user{
+  padding: 25px 0 15px 10px;
+}
+.yy_psearch{
+	padding: 45px 0 0 0;
+}
+.yy_content{
+	
+	
+	margin-top: 15px;
+}
+#accordion{
+	width: 240px;
+  margin-left: -15px;
+
+
+}
+.yy_contright{
+  padding: 0px;
+}
+.panel-default > .panel-heading {
+color: #fff;
+background-color: #83B149;
+border-color: #dddddd;
+text-align: center;
+height: 30px;
+}
+.firstcol{width:450px;}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+color: #ffffff;
+background-color: #2B6C15;
+}
+.nav-pills > li > a {
+border-radius: 0px;
+}
+.col-sm-2,.col-sm-3{width:120px;}
+.input_width1{width:320px;}
+.tip-text{padding-left:0px;width:100px;text-align:left;font-weight:normal;}/*��λ*/
+.textsmall{width:150px;padding-right:5px;}
+.rightleg{padding:0;width:80px;}/*ȥ��߿�padding���룬ʹ������ť����*/

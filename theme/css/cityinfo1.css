@@ -1,0 +1,29 @@
+a.mytitem.active{background-color: #1e771c;border-color:#1e771c; }
+a.mytitem.active, a.mytitem.active:hover {background-color: #1e771c;border-color:#1e771c;}
+.mytitem{padding:5px 10px 5px 10px;border:none;}
+.mytitem:first-child{border-top-right-radius: 0px;
+border-top-left-radius: 0px;}
+.my-panel-body{padding:0;}
+.panel-my > .panel-heading{
+	background:#99CC00;
+	padding:5px 5px 5px 10px;
+	font-size:20px;
+	color:white;
+	font-family:"宋体";
+}
+.mylist{font-size:18px;}
+
+
+/*涓撲笟闀囦簩绾�/
+.citytile{color:#1e771c;font-family:"榛戜綋";font-size:20px;}
+.cityimg{width:100%;}
+.bottom-span{color:#3a613a;font-size:15px;}
+.panel-default {
+border-color: #99CC00;
+}
+.search-row{margin-bottom:10px;}
+/* 璐ㄩ噺妫�祴*/
+.col-padding{padding:0px;}
+.monad-span,.table-color{color:#3a613a;}
+.dt-title{color:#4e5b2c;}
+.td-col{width:33%;}

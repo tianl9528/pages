@@ -1,0 +1,17 @@
+a.mytitem.active{background-color: #1e771c;border-color:#1e771c; }
+a.mytitem.active, a.mytitem.active:hover {background-color: #1e771c;border-color:#1e771c;}
+.mytitem{padding:5px 10px 5px 10px;border:none;}
+.mytitem:first-child{border-top-right-radius: 0px;
+border-top-left-radius: 0px;}
+.my-panel-body{padding:0;}
+.panel-my > .panel-heading{
+	padding:0px 0px 0px 10px;
+	color:white;
+	font-family:"����";
+}
+.mylist{font-size:18px;}
+
+.col-padding{padding:0px;}
+.monad-span,.table-color{color:#3a613a;}
+.dt-title{color:#4e5b2c;}
+.td-col{width:33%;}

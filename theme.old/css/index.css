@@ -1,0 +1,552 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+	/*
+	font-family: "微软雅黑";
+	font-size: 14px;
+	*/
+	font: 12px/150% Arial,Verdana,宋体;
+}
+.clear {
+	clear: both;
+}
+
+input,textarea{
+	font-size:18px;
+}
+li {
+	list-style-type: none;
+}
+
+body {
+	background-image:url(../image/body_bg.png);
+	background-repeat:repeat-x;
+}
+.topLine {
+	background-image: url(../images/top_line.png);
+	background-repeat: repeat-x;
+	height: 8px;
+	width: 100%;
+}
+.indexBox {
+	width: 1003px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.indexBox .topBannerBox {
+	height: 80px;
+	width: 100%;
+	overflow: hidden;
+}
+.topBannerBox .logoBox {
+	float: left;
+	overflow: hidden;
+}
+.topBannerBox .nameBox {
+	float: left;
+	height: 32px;
+	margin-top: 36px;
+	overflow: hidden;
+}
+.nameBox .leftName {
+	background-image: url(../images/bg_name.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	float: left;
+	height: 32px;
+	width: 20px;
+}
+.nameBox .rightName {
+	background-image: url(../images/bg_name.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	height: 32px;
+	overflow: hidden;
+	float: left;
+	padding-right: 20px;
+	padding-top: 5px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #FFF;
+}
+.rightName img {
+	margin-left: 5px;
+}
+.topBannerBox .topRightBox {
+	float: right;
+	margin-top: 2px;
+}
+.topRightBox a {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #004f9f;
+	margin-right: 20px;
+	text-decoration: none;
+}
+.indexBox .mainBox {
+}
+.mainBox .naviBox {
+	height: 97px;
+	width: 100%;
+	overflow: hidden;
+}
+.naviBox .firNavi {
+	background-color: #86B7ED;
+	/* background-image: url(../images/bg_full_1.png); */
+	background-repeat: no-repeat;
+	height: 48px;
+	width: 100%;
+	padding-left: 20px;
+	padding-top: 6px;
+}
+.oneNavi li {
+	width: 120px;
+	display: block;
+	float: left;
+}
+.oneNavi li a {
+	display: block;
+	float: left;
+	width: 120px;
+	height: 45px;
+	line-height: 45px;
+	text-decoration: none;
+	text-align: center;
+	font-family: "宋体";
+	color: black;
+	font-size: 18px;
+}
+.oneNavi li a:hover {
+	display: block;
+	float: left;
+	width: 120px;
+	height: 40px;
+	line-height: 45px;
+	text-decoration: none;
+	text-align: center;
+	font-family: "微软雅黑";
+	color: #FFF;
+	/* background-image: url(../images/hover1.png); */
+	background-color: rgb(127, 178, 197);
+	background-repeat: no-repeat;
+}
+.oneNavi .curOne a {
+	background-image: url(../images/hover1.png);
+	background-repeat: no-repeat;
+}
+
+.naviBox .secNavi {
+	/*background-image: url(../images/bg_full_2.png); */
+	/*background-color: blue;*/
+	background-repeat: no-repeat;
+	height: 48px;
+	width: 100%;
+	padding-left: 10px;
+}
+.secNavi ul li {
+	display: block;
+	float: left;
+	width: 104px;
+	height: 45px;
+}
+.secNavi ul li a {
+	display: block;
+	float: left;
+	width: 104px;
+	font-size: 14px;
+	color: black;
+	text-decoration: none;
+	height: 40px;
+	text-align: center;
+	line-height: 45px;
+	font-family:"宋体";
+}
+.secNavi ul li a:hover {
+	display: block;
+	float: left;
+	width: 104px;
+	font-size: 14px;
+	color: #0A60B7;
+	background-image: url(../images/hover2.png);
+	background-repeat: no-repeat;
+}
+.mainBox .contentBox {
+	/**background-image: url(../images/bg_full_3.png);**/
+    background-color: #fff;
+	background-repeat: repeat-y;
+	overflow: hidden;
+	padding: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.contentBox .curLocation {
+	/*
+	font-family: "微软雅黑";
+	font-size: 16px;
+	font-weight: bold;
+	color: #0053a8;
+	float: left;
+	*/
+	font: 14px/150% Arial,Verdana,宋体;
+}
+.contentBox .curLocation img {
+	margin-bottom: -15px;
+}
+.contentBox .searchBox {
+	float: right;
+	margin-right: 5px;
+}
+.searchBox .searchIcon {
+	float: left;
+	height: 40px;
+	width: 38px;
+}
+.searchBox .searchInput {
+	float: left;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #333;
+}
+
+.searchBox .searchInput input {
+	height: 38px;
+	line-height:38px;
+	width: 277px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #d2d2d2;
+	border-bottom-color: #d2d2d2;
+	outline: none;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-right-style: none;
+	border-left-style: none;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #333;
+}
+.searchBox .searchBtn {
+	float: left;
+	height: 40px;
+	width: 83px;
+}
+.searchBox .searchBtn input {
+	background-image: url(../images/bg_search_60.png);
+	background-repeat: no-repeat;
+	border: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #FFF;
+	text-align: center;
+	line-height: 40px;
+	height: 40px;
+	width: 83px;
+}
+.searchBox .searchBtn input:hover {
+	background-image: url(../images/bg_search_61.png);
+	background-repeat: no-repeat;
+	border: 0px;
+	border-color:transparent;
+	background-color:transparent;
+}
+.contentBox .listBox {
+	width: 957px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+	overflow: hidden;
+}
+.listBox .listTitle {
+	/* background-image: url(../images/bg_full_5.png); */
+	background-color:#45AA41;
+	background-repeat: no-repeat;
+	height: 36px;
+	width: 957px;
+	color: #FFF;
+	padding-right: 18px;
+	padding-left: 18px;
+	line-height: 36px;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	font-weight:bold;
+}
+.listBox .listTitle .more {
+	text-align: right;
+	float: right;
+}
+.listBox .listTitle .more a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.listBox .list {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #cccdcf;
+	border-left-color: #cccdcf;
+	background-color: #f7f7f7;
+	padding: 10px;
+	width: 957px;
+	overflow: hidden;
+}
+.list .tList .colorGrey {
+	background-color: #eeeeee;
+}
+.list .tList .colorwhite {
+	background-color: #FFF;
+}
+.listBox .list .tTitle td{
+	color: #3c3a3d;
+	text-align: center;
+	font-family: "宋体";
+	line-height: 40px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cccdcf;
+	font-weight: bold;
+	font-size:18px;
+}
+.listBox .list .tList{
+	color: #5c5d47;
+	text-align: center;
+	font-family: "宋体";
+	line-height: 32px;
+	width: 935px;
+}
+
+.tList .trainLeft {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #cccdcf;
+	border-bottom-color: #cccdcf;
+}
+.tList .trainContent {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #cccdcf;
+	border-bottom-color: #cccdcf;
+}
+.tList .trainFunction {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cccdcf;
+}
+.trainFunction .detail {
+	display: block;
+	float: left;
+	background-image: url(../images/icon_function_1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 8px;
+	height: 40px;
+	margin-left: 3px;
+	text-indent: 22px;
+	line-height: 40px;
+	font-size: 14px;
+	color: #3c3a3d;
+	text-decoration: none;
+}
+.trainFunction .edit {
+	display: block;
+	float: left;
+	background-image: url(../images/icon_function_2.png);
+	background-repeat: no-repeat;
+	background-position: 0px 8px;
+	height: 40px;
+	margin-left: 3px;
+	text-indent: 22px;
+	line-height: 40px;
+	font-size: 14px;
+	color: #3c3a3d;
+	text-decoration: none;
+}
+.trainFunction .delete {
+	display: block;
+	float: left;
+	background-image: url(../images/icon_function_3.png);
+	background-repeat: no-repeat;
+	background-position: 0px 8px;
+	height: 40px;
+	margin-left: 3px;
+	text-indent: 22px;
+	line-height: 40px;
+	font-size: 14px;
+	color: #3c3a3d;
+	text-decoration: none;
+}
+.trainFunction .selectbox {
+	display: block;
+	float: left;
+
+	height: 40px;
+	margin-left: 3px;
+	text-indent: 22px;
+	line-height: 40px;
+	font-size: 14px;
+	color: #3c3a3d;
+	text-decoration: none;
+}
+.trainFunction .detail:hover, .trainFunction .edit:hover, .trainFunction .delete:hover {
+	font-size: 14px;
+	color: #0f6bbd;
+}
+.listBox .list .tList .colorGrey td {
+	background-color: #eeeeee;
+	border-bottom-width: 1px;
+	border-bottom-color: #cccdcf;
+	border-bottom-style: solid;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+.listBox .list .tList .colorwhite td {
+	background-color: #FFF;
+	border-bottom-width: 1px;
+	border-bottom-color: #cccdcf;
+	border-bottom-style: solid;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+.contentBox .page {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background-image: url(../images/bg_full_6.png);
+	height: 60px;
+	background-position: center bottom;
+	text-align: center;
+}
+.page .pageBox {
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	margin-top: 5px;
+	text-align: center;
+}
+
+.listBox .page a {
+	text-decoration: none;
+	font-size: 15px;
+	/*line-height: 40px;*/
+	color: #3c3a3d;
+	height: 25px;
+	width: 25px;
+	display: block;
+	float: left;
+	background-image: url(../images/btn_page_normal.png);
+	background-repeat: no-repeat;
+	margin-left: 10px;
+	border-radius:11px;
+	-moz-border-radius:11px;
+	-webkit-border-radius:11px;
+}
+.page .pageBox .midPage {
+	background-image: none;
+	overflow: hidden;
+} 
+.page .pageBox .midPage:hover {
+	background-image: none;
+	overflow: hidden;
+	color:#06F;
+}
+.page .pageBox .longBg {
+	background-image: url(../images/btn_long_page_pressed.png);
+	background-repeat: no-repeat;
+	width: 78px;
+	overflow: hidden;
+	color: #FFF;
+}
+.page .pageBox .longBg:hover {
+	background-image: url(../images/btn_long_page_pressed.png);
+	background-repeat: no-repeat;
+	width: 78px;
+	overflow: hidden;
+	color: #FFF;
+}
+.page .pageBox .curPage, .listBox .page a:hover {
+	color: #FFF;
+	background-image: url(../images/btn_page_pressed.png);
+	background-repeat: no-repeat;
+}
+.indexBox .mainBox .copyRightBox {
+	background-image: url(../images/bg_full_4.png);
+	background-repeat: no-repeat;
+	height: 58px;
+	width: 1002px;
+	margin-bottom: 20px;
+}
+.copyRightBox .copyRight {
+	font-size: 14px;
+	line-height: 50px;
+	color: #667679;
+	height: 50px;
+	float: left;
+	margin-left: 50px;
+	font-weight: bold;
+}
+.copyRightBox .backToTop {
+	color: #1E84C1;
+	background-image: url(../images/backToTop.png);
+	background-position: 8px 15px;
+	text-align: right;
+	float: right;
+	width: 90px;
+	margin-right: 25px;
+	background-repeat: no-repeat;
+	height: 50px;
+	line-height: 50px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/*****************自己新加的按钮样式*******************/
+.base_btn {
+	/*
+	background-image: url(../images/btn_long_page_pressed.png);
+	background-repeat: no-repeat;
+	width: 78px;
+	overflow: hidden;
+	color: #FFF;
+	*/
+	font-size: 16px;
+	line-height: 40px;
+	color: #FFF;
+	background-image: url(../images/btn_long_page_pressed.png);
+	background-repeat: no-repeat;
+	width: 80px;
+	height:40px;
+	border: 0px;
+	cursor:pointer;
+	margin-left:10px;
+}
+
+
+/*****************以下是DEMO需要加的*******************/
+
+.lookup {
+	width: 80px;
+	display: block;
+	float: left;
+	background-image: url(../images/icon_function_1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 8px;
+	height: 40px;
+	margin-left: 3px;
+	text-indent: 22px;
+	line-height: 40px;
+	font-size: 14px;
+	color: #3c3a3d;
+	text-decoration: none;
+}

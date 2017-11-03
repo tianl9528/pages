@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<securityfilter-config>
+	<login-config>
+		<auth-method>FORM</auth-method>
+		<realm-name>广东省专业镇信息服务平台</realm-name>
+		<form>
+			<main-page>/main.action</main-page>
+			<login-page>/login.action</login-page>
+			<error-page>/error.action</error-page>
+			<forbidden-page>/noright.action</forbidden-page>
+			<default-page>/index.action</default-page>
+			<logout-page>/logout.action</logout-page>
+			<download-page>/download.action</download-page>
+			<ignore-res>
+				css;jpg;eot;ttf;woff;bmp;gif;doc;txt;png;pic;wmf;tif;pcx;tga;wmv;rm;rmvb;avi;mpeg;jpeg;svg;
+			</ignore-res>
+		</form>
+	</login-config>
+	<!-- 需要设定独特的权限元素，无法被删除和修改的，包括部门depart，用户user，角色role，实体entity，菜单nodegroup -->
+	<!-- 多个元素之间用;隔开，注意只匹配元素中的name字段 -->
+	<unique-config>
+		<departs>系统部门</departs>
+		<users>administrator</users>
+		<roles></roles>
+		<entities>用户管理;部门管理;角色管理;功能管理;菜单管理;职位管理</entities>
+		<nodegroups>权限模块</nodegroups>
+	</unique-config>
+	<!-- 需要忽略的文件夹和页面，用;隔开 -->
+	<ignore-config>
+		<folder>/app_theme;/theme;/dbAdmin;/scripts;/demo;/config-browser;
+		</folder>
+		<url>/login.jsp;/asp.jsp;/login.action;/test.jsp;/download.jsp;/hello.action;/index.jsp;/register.action;/register.jsp;/forgetpwd.action;/fogetpwd.jsp;/findpwd.action;/message.jsp;/regist.action;/main.action;
+		/usermanager/model1.action;/usermanager/list/model1.jsp;
+		/usermanager/model2.action;/usermanager/list/model2.jsp;
+		/usermanager/model3.action;/usermanager/list/model3.jsp;
+		/usermanager/model4.action;/usermanager/list/model4.jsp;
+		/usermanager/model5.action;/usermanager/list/model5.jsp;
+		/usermanager/model6.action;/usermanager/list/model6.jsp;
+		/usermanager/model7.action;/usermanager/list/model7.jsp;
+		/usermanager/model8.action;/usermanager/list/model8.jsp;
+		/usermanager/model9.action;/usermanager/list/model9.jsp;
+		</url>
+	</ignore-config>
+	<!-- 系统需要读取角色id的角色 -->
+	<role-config>
+		<!-- 会员id -->
+		<hy-id>5</hy-id>
+	</role-config>
+</securityfilter-config>

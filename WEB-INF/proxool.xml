@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proxool-config>
+  <proxool>
+  	<!-- OSS 离线库 -->
+    <alias>GDHX_132_96_64_100</alias>
+    <driver-url>jdbc:oracle:thin:@132.96.64.100:1521:GDHX</driver-url>
+    <!--<driver-url>jdbc:oracle:thin:@localhost:1521:sunit</driver-url>-->
+    <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+    <driver-properties>
+      <property name="user" value="gzquery"/>
+      <property name="password" value="gzquery"/>
+    </driver-properties>
+    <house-keeping-test-sql>select 1 from dual</house-keeping-test-sql>
+    <!-- 保留线程处于睡眠状态的最长时间,house keeper 的职责就是检查各个连接的状态,并判断是否需要销毁或者创建。注意：这里只作判断,不做销毁动作2007-12-10 -->
+	<house-keeping-sleep-time>30000</house-keeping-sleep-time>
+	<prototype-count>5</prototype-count>
+	<maximum-connection-count>100</maximum-connection-count>
+	<minimum-connection-count>10</minimum-connection-count>  <!--最大的等待请求数,即因没有空闲连接可以分配而在队列中等候的最大请求数,超过这个请求数的用户连接就不会被接受-->
+    <!-- <simultaneous-build-throttle>200</simultaneous-build-throttle>-->
+    <!-- 一个线程的最大寿命默认4小时 否则如果代码写的不好，会使连接永远不销毁，内存永远不释放-->
+    <!-- <maximum-connection-lifetime>1320000</maximum-connection-lifetime>-->
+	<!-- 指因未有空闲连接可以分配而在队列中等候的最大请求数,超过这个请求数的用户连接就不会被接受-->
+    <!-- <maximum-new-connections>20</maximum-new-connections> -->
+	<maximum-active-time>2400000</maximum-active-time>
+    <statistics>1m,15m,1d</statistics>
+	<statistics-log-level>WARN</statistics-log-level>
+    <trace>true</trace>
+    <verbose>true</verbose>
+    <test-before-use>true</test-before-use>
+    <test-after-use>true</test-after-use>
+  </proxool>
+</proxool-config>

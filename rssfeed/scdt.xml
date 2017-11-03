@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>市场动态</title>
+    <link>http://localhost:8080/gdzyzmmv2/push/scdtlist.action</link>
+    <description>市场动态</description>
+    <language>zh-ch</language>
+    <copyright>广东省专业镇信息服务平台</copyright>
+    <pubDate>Thu, 07 May 2015 12:13:52 GMT</pubDate>
+    <dc:date>2015-05-07T12:13:52Z</dc:date>
+    <dc:language>zh-ch</dc:language>
+    <dc:rights>广东省专业镇信息服务平台</dc:rights>
+    <item>
+      <title>汕头农副产品市场：上周天气阴晴不定 菜价总体上涨</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015042811145700000</link>
+      <description>&lt;p class="MsoNormal"&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;上周（2015年4月11日至4月17日）市场蔬菜价格总体上涨。在市场统计的52种蔬菜中，总的综合平均价为4.56元/公斤，比上上周4.22元/公斤上升8.06个百分点；蔬菜加权平均价为3.42元/公斤，比上上周上升9.27个百分点。其中有43种蔬菜价格上涨，9种蔬菜价格下降。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal"&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;由于前段时间冷空气频繁南下，天气忽热忽凉，阴晴不定，加上现在正处于大棚菜与露地菜轮换的交接时期，本地菜生长上市受到影响，菜价因而上涨。本地的空心菜、苋菜、油菜、莴笋、生菜、芥蓝菜、西兰花、菠菜、香菜、小白菜、菜花、洋白菜、黄瓜、茄子、绿尖椒、大葱、青椒、西红柿、丝瓜和尖椒等涨幅较大，价格分别比上上周同期上升了63.93%、61.76%、57.92%、52.5%、44.16%、40.51%、32.47%、19.90%、18.24%、17.14%、13.90%、33.98%、28.30%、21.6%、20.53%、20.28%、18.06%、16.22%、14.63%、12.82%；大蒜、金针菇、冬瓜、莲藕等蔬菜价格同比上上周分别下降了57.85%、12.5%、10.53%、6.09%。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal"&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;受高空槽弱冷空气和低层弱偏南气流影响，下周我市将出现暴雨的降水过程及强对流天气，预计本周蔬菜价格基本稳定或上涨。&#xD;
+&lt;/p&gt;</description>
+      <category>市场动态</category>
+      <pubDate>Sun, 19 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015042811145700000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-19T16:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

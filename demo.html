@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>aaasss
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>公司内部系统</title>
+<link rel="stylesheet" href="theme/menu.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="theme/head.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="theme/base_style.css" type="text/css" media="screen" />
+
+<script type="text/javascript" src="theme/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="theme/js/jquery-table-list_select.js"></script>
+
+<script type="text/javascript" src="theme/js/jquery.ui.datepicker-zh-CN.js"></script>
+<script type="text/javascript" src="theme/js/jquery-ui-1.8.20.custom.min.js"></script>
+<link rel="stylesheet" href="theme/jquery-ui-1.8.20.custom.css" type="text/css" media="screen" />
+
+<script type=text/javascript>
+$(function(){
+	$('#webmenu li').hover(function(){
+		$(this).children('ul').stop(true,true).show('fast');
+	},function(){
+		$(this).children('ul').stop(true,true).hide('fast');
+	});
+	
+	$('#webmenu li').hover(function(){
+		$(this).children('div').stop(true,true).show('fast');
+	},function(){
+		$(this).children('div').stop(true,true).hide('fast');
+	});
+});
+
+
+  /*表格高亮,参数是id属性,有需要才用*/
+$(function(){
+    $('#list_table').table();
+});
+$(function(){
+    $('#list_table1').table();
+});
+
+/*日期控件适用于.txt_select_date类样式文本框,有需要才用*/
+  $(document).ready(function() {
+	  $(".txt_select_date" ).datepicker({ dateFormat: "yy-mm-dd",
+										 changeYear: true,
+										 yearRange: "1949:2099",
+										 monthNames: ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"]});										   
+  });
+  
+</script>
+
+</head>
+<body>
+
+<div style="width:100%;">
+<div style="height:45px;"></div>
+</div>
+
+<div class="mainhead">
+<ul>
+	<li style="float:left;position:relative;height:83px; padding-left:130px"><img src="theme/image/suntilogo22_03.png" width="280" height="83" border="0"></li>
+	<li style="float:left;position:relative;padding-top:23px;padding-left:20px"></li>
+</ul> 
+
+<ul id="webmenu" class="first-menu">
+  <li><a href="#" target="_self">个人桌面</a></li>
+  <li><a href="#" target="_self">项目管理</a>
+    <ul style="display: none;" class="second-menu">
+      <li><a href="#" class="arrow">工作报表</a>
+        <ul class="third-menu">
+          <li><a href="#">工作日报</a></li>
+          <li><a href="#">工作周报</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="arrow" target="_self">任务管理</a>
+        <ul class="third-menu">
+          <li><a href="#">任务分派</a></li>
+          <li><a href="#">待办任务</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+
+  
+  <li><a href="#" target="_self">考勤管理</a>
+    <ul style="display: none;" id="" class="second-menu">
+      <li><a href="#" target="_self">请假管理</a>
+      </li>
+       <li><a href="#" target="_self">加班管理</a>
+          </li>
+    </ul>
+  </li>
+  
+  <li><a href="" target="_blank">通知公告</a></li>
+  
+  <li><a href="" target="_blank">系统管理</a></li>
+</ul>    
+
+</div>
+
+
+<div class="head_body_content">
+
+<div class="body_title">
+	<li style="padding-top:8px; padding-left:5px">新框架样式>>>样式示例</li>
+</div>
+<BR>
+
+<!-- 列表样式 -->
+ <table class="main_content" align="center">
+      <tr class="_content_select" style="text-align:center;"><td colspan="2" class="content_select">
+      选择:<select name="23"><option value="12">123456</option></select>
+      日期:<input name="sdate" type="text" class="txt_select_date" />
+      条件1:<input name="1234" type="text" class="txt_select">
+      订单编号:<input name="1234" type="text" class="txt_select">
+      <input name="btn" value="查询" type="button" class="btn">
+      </td>
+      </tr>
+	</table>  
+
+<table id="list_table" class="main_content" align="center">
+				<tr class="_title">
+                  <td class="title" nowrap="nowrap">选择</td>
+                  <td class="title" nowrap="nowrap">序号</td>
+                  <td class="title" nowrap="nowrap">套餐名称</td>
+                  <td class="title">宽带服务内容 - table样式</td>
+                  <td class="title" nowrap="nowrap">生效时间</td>
+                  <td class="title" nowrap="nowrap">套餐价格(元)</td>
+                  <td class="title" nowrap="nowrap">速率</td>
+                  <td class="title"><font color="red">活动优惠</font></td>
+				</tr>
+                <tr class="_content">
+                    <td align="center" class="content" nowrap="nowrap">
+                        <input name="setmealID" id="14" value="14" msg="1080.0" type="radio">
+                    </td>
+                    <td class="content" style="width:60px">3</td>
+                    <td class="content" nowrap="nowrap">家庭6M宽带包年</td>
+                    <td class="content" width="350px">家庭6M宽带，包12个月不限时上网，月租低至90</td>
+                    <td class="content" nowrap="nowrap">123</td>
+                    <td class="content" style="color: red;font-weight: bolder;" nowrap="nowrap">￥1080.0	</td>
+                    <td class="content" nowrap="nowrap">6M</td>
+                    <td class="content" width="300px"><font color="red">续约可赠送一个月租，即1080元包13个月月租</font></td>
+                </tr>
+                <tr class="_content">
+                    <td align="center" class="content" nowrap="nowrap">
+                        <input name="setmealID" id="14" value="14" msg="1080.0" type="radio">
+                    </td>
+                    <td class="content" style="width:60px">3</td>
+                    <td class="content" nowrap="nowrap">家庭6M宽带包年</td>
+                    <td class="content" width="350px">家庭6M宽带，包12个月不限时上网，月租低至90</td>
+                    <td class="content" nowrap="nowrap"></td>
+                    <td class="content" style="color: red;font-weight: bolder;" nowrap="nowrap">￥1080.0	</td>
+                    <td class="content" nowrap="nowrap">6M</td>
+                    <td class="content" width="300px"><font color="red">续约可赠送一个月租，即1080元包13个月月租</font></td>
+                </tr>
+                <tr class="_content">
+                    <td align="center" class="content" nowrap="nowrap">
+                        <input name="setmealID" id="14" value="14" msg="1080.0" type="radio">
+                    </td>
+                    <td class="content" style="width:60px">3</td>
+                    <td class="content" nowrap="nowrap">家庭6M宽带包年</td>
+                    <td class="content" width="350px">家庭6M宽带，包12个月不限时上网，月租低至90</td>
+                    <td class="content" nowrap="nowrap"></td>
+                    <td class="content" style="color: red;font-weight: bolder;" nowrap="nowrap">￥1080.0	</td>
+                    <td class="content" nowrap="nowrap">6M</td>
+                    <td class="content" width="300px"><font color="red">续约可赠送一个月租，即1080元包13个月月租</font></td>
+                </tr>
+                <tr class="_content">
+                    <td align="center" class="content" nowrap="nowrap">
+                        <input name="setmealID" id="14" value="14" msg="1080.0" type="radio">
+                    </td>
+                    <td class="content" style="width:60px">3</td>
+                    <td class="content" nowrap="nowrap">家庭6M宽带包年</td>
+                    <td class="content" width="350px">家庭6M宽带，包12个月不限时上网，月租低至90</td>
+                    <td class="content" nowrap="nowrap"></td>
+                    <td class="content" style="color: red;font-weight: bolder;" nowrap="nowrap">￥1080.0	</td>
+                    <td class="content" nowrap="nowrap">6M</td>
+                    <td class="content" width="300px"><font color="red">续约可赠送一个月租，即1080元包13个月月租</font></td>
+                </tr>                
+                <tr class="_foot" ><td colspan="8" class="foot" ><form action="#">共1页  第1页  <a href="#">上一页</a>/下一页</form></td></tr>
+	
+	</table>
+
+<br><br>
+<table class="main_content" align="center" id="list_table1">
+ 				<tr class="_title">
+				<td  class="title"colspan="4" style="background:#FFF">表单样式-table</td>
+				</tr>
+				<tr class="">
+				<td width="110" class="title_left">选择</td>
+				<td width="370" class="content">5555555555</td>
+				<td width="110" class="title_left">电话</td>
+				<td class="content">AAAAAAAA</td>
+				</tr>
+                <tr>
+                    <td class="title_left">地址</td>
+                    <td class="content">3</td>
+                    <td class="title_left">部门</td>
+                    <td class="content">ABBBBBBB</td>
+                </tr>
+           		<tr>
+                    <td class="title_left">姓名	</td>
+                    <td class="content">DDDDDDDDD</td>
+                    <td class="title_left">职称</td>
+                    <td class="content">CCCCCCC</td>
+                </tr>
+    <tr class="_content" style="text-align: center;"><td class="content" colspan="4" ><input name="btn" value="关闭按钮" class="btn" type="button"></td></tr>
+	</table>
+<br>
+ <table class="main_content" align="center">
+ 				<tr class="_title">
+				<td class="title" colspan="2">表单样式-TABLE</td>
+				</tr>
+				<tr class="_content">
+				<td class="content" width="200" style="text-align: center;">选择</td>
+				<td class="content"><input name="title2" type="text" size="30" class="txt_input"/></td>
+				</tr>
+                  <tr class="_content" >
+                      <td class="content" style="text-align: center;">标题</td>
+                      <td class="content" nowrap="nowrap"><input name="title" type="text" size="30" class="txt_input"/></td>
+                  </tr>
+    			<tr class="_content" >
+        			<td class="content" style="text-align: center;">姓名</td>
+                     <td class="content" nowrap="nowrap"><textarea name="textarea" cols="70" rows="3"></textarea></td>
+    			</tr>
+                   <tr class="_content" style="text-align: center;"><td class="content" colspan="2" ><input name="btn" value="一个提交按钮" type="button" class="btn"></td></tr>
+	</table>  
+    
+</div>
+
+<!-- MAIN FOOT -->  
+<div class="head_youqing_link"><br>
+<ul style="width:636px;margin-left:auto; margin-right:auto;">
+<li style="float:left; position:relative;"><img src="theme/image/liantong.png" width="159" height="50" border="0"></li>
+<li style="float:left; position:relative"><img src="theme/image/dianxin.png" width="159" height="50" border="0"></li>
+<li style="float:left; position:relative"><img src="theme/image/dianxinzhen.png" width="159" height="50" border="0"></li>
+<li style="float:left; position:relative"><img src="theme/image/yidong.png" width="159" height="50" border="0"></li>
+</ul>
+</div>
+
+<div style="height:2px;background-image:url(theme/image/heard22_02.jpg);"></div>
+<div style="background-color:#D1D1D1;color: #626161; width:100%;height:50px; padding:30px 0 0 0; text-align:center">
+  版权所有：广州市升日科技有限公司  联系电话：020-38839722,020-38839733
+</div>
+
+</body>
+</html>

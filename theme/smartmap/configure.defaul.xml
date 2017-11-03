@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+    <initExtent>  <!--初始化地图范围，经纬度格式-->
+		<xmin>109.6</xmin>   
+		<ymin>20.1</ymin>
+		<xmax>118</xmax>
+		<ymax>25.5</ymax>
+		<wkid>4326</wkid>  <!--地图投影设置4326表示是WGS-84经纬度投影，102113是谷歌地图Web墨卡托投影，其他的参考ArcGIS 投影帮助。-->
+	</initExtent>
+	<layers>  <!--初始化显示的图层数组，每个图层为一个layer-->
+		<!--<layer title="谷歌地图" mapType="googlemap"/>-->  <!--加载谷歌地图时，mapType是googlemap, 加载谷歌地图时，wkid必须=102113-->
+		
+		<layer title="广东省地级行政区" mapType="swfPolyMap" showInfo="1">    <!--showLabel=1表示单击的时候显示属性框，0不显示,显示标注的时候添加labelFld="地区代码" 属性-->
+			<source>/gdzyz/theme/smartmap/maps/440000.swf</source>    <!--此处填写相对路径-->
+			<legend type="linearcolor_EV" startcolor="0xFF000" endcolor="0x0000FF" segments="5" themeFld="地区代码"/>
+			
+		</layer>
+		
+		<layer title="河源市行政区" mapType="swfPolyMap" showInfo="1">    <!--showLabel=1表示单击的时候显示属性框，0不显示-->
+			<source>/gdzyz/theme/smartmap/maps/441600.swf</source>    <!--此处填写相对路径-->
+			<legend type="randomcolor" startcolor="0xFF000" endcolor="0x0000FF" segments="5" themeFld="地区代码"/>
+			
+		</layer>
+		
+		<layer title="茂名市行政区" mapType="swfPolyMap" showInfo="1">    <!--showLabel=1表示单击的时候显示属性框，0不显示-->
+			<source>/gdzyz/theme/smartmap/maps/440900.swf</source>    <!--此处填写相对路径-->
+			<legend type="randomcolor" startcolor="0xFF000" endcolor="0x0000FF" segments="5" themeFld="地区代码"/>
+			
+		</layer>
+		
+		<layer title="" mapType="httpServicePoint" format="xmllist">
+			<source></source>
+			<legend type="randomcolor"/>
+			
+			<events>
+			</events>
+		</layer>
+		
+	</layers>	
+</Configuration>

@@ -1,0 +1,18 @@
+.container{
+	margin-top:20px;
+}
+#header {
+	background:#91B82B;
+	height:50px;
+}
+#head {
+	background:#C1E858;
+}
+.panel-title {
+	text-align:left;
+	font-size:24px;
+	font-weight:bold;
+}
+a{
+	text-align:left;
+}

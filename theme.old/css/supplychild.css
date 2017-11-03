@@ -1,0 +1,15 @@
+.table > tbody > tr > th ,.table > tbody > tr > td
+{
+	border-top: 1px solid #FFFFFF;
+	padding: 5px 10px 3px 15px;
+}
+.table > tbody > tr > th
+{
+	color:#3e8a2d;
+	font-size:16px;
+	padding-left:5px;
+}
+.img-box{width:100%;}
+.row-top{padding:10px 10px 0 15px;}
+.td-width{width:100px;}
+.deletepad{padding:0;}

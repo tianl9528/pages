@@ -1,0 +1,37 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+	pageEncoding="utf-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>检测检验 >> 产品溯源</title>
+<%
+	String base_root = request.getContextPath();
+%>
+<script type="text/javascript" language="javascript">
+	function iFrameHeight() {
+		var ifm = document.getElementById("iframepage");
+		var subWeb = document.frames ? document.frames["iframepage"].document
+				: ifm.contentDocument;
+		if (ifm != null && subWeb != null) {
+			ifm.height = subWeb.body.scrollHeight;
+		}
+	}
+</script>
+</head>
+<html>
+<body>
+
+	<!-- <iframe
+		src="http://javatrace.proj.youyuangis.com/WebForms/Standard/List.aspx"
+		frameborder="0" marginheight="0" marginwidth="0" frameborder="0"
+		scrolling="auto" id="ifm" name="ifm"
+		onload="javascript:dyniframesize('ifm');" width="100%" height="1000px" />
+	</iframe> -->
+	<iframe src="http://javatrace.proj.youyuangis.com/WebForms/Standard/List.aspx" id="iframepage" name="iframepage"
+		frameBorder=0 scrolling=no width="100%" onLoad="iFrameHeight()" height="760px"></iframe>
+	<!-- 	<iframe
+		src="http://javatrace.proj.youyuangis.com/WebForms/Standard/List.aspx"
+		width="1000px" height="1000px" scrolling="no" style="margin-top: 10px"></iframe> -->
+</body>
+</html>

@@ -1,0 +1,32 @@
+.row-css{
+	border: 1px solid #dddddd;
+	border-radius: 4px;
+	padding:0;
+	height:30px;
+	background-color:#83B149;
+}
+.row-headline
+{
+	margin-top:5px;
+	padding:0 30px 0 30px;
+	color:white;
+	font-size:24px;
+}
+.row-childhead{padding:10px 0 0 0;}
+.option{
+	padding:0 20px 0 20px;
+	border-bottom: 3px solid rgb(115,175,55);
+	border-bottom-right-radius:40px;
+	border-bottom-left-radius:40px;
+}
+.img-box{width:100%;}
+.row-list{heght:200px;}
+.price-text{color:red;}
+.row-top{padding-top:10px;}
+.mybtn{cursor:pointer;}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover{
+color: white;
+background-color: #83B149;
+}
+.nav-pills a{color:#339933;}
+#spanpage{display:none;}//����pageid������js

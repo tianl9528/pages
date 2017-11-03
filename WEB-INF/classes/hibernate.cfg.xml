@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+		<!-- <property name="hibernate.connection.provider_class">org.hibernate.connection.ProxoolConnectionProvider</property> 
+			<property name="hibernate.proxool.pool_alias">server</property> <property 
+			name="hibernate.proxool.xml">.\proxool.xml</property> <property name="hibernate.proxool.existing_pool">true</property> -->
+		<!-- <property name="hibernate.connection.driver_class">oracle.jdbc.driver.OracleDriver</property> 
+			<property name="hibernate.connection.url">jdbc:oracle:thin:@192.168.0.13:1522:server10</property> 
+			<property name="hibernate.connection.username">accidentmanager</property> 
+			<property name="hibernate.connection.password">sunit</property> -->
+		<!-- SQL dialect -->
+		<property name="hibernate.dialect">
+			org.hibernate.dialect.Oracle10gDialect
+		</property>
+
+		<!-- Echo all executed SQL to stdout -->
+		<property name="hibernate.show_sql">true</property>
+		<!-- <property name="hibernate.format_sql">true</property> -->
+
+		<!-- 使用EhCache -->
+		<property name="hibernate.cache.provider_class">
+			org.hibernate.cache.EhCacheProvider
+		</property>
+		<property name="hibernate.cache.provider_configuration_file_resource_path">
+			.\ehcache.xml
+		</property>
+
+		<!-- Disable the second-level cache -->
+		<!-- <property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property> -->
+
+		<property name="hibernate.connection.autocommit">true</property>
+		<property name="hibernate.generate_statistics">true</property>
+		<property name="hibernate.connection.release_mode">auto</property>
+		<property name="hibernate.autoReconnect">true</property>
+		<property name="hibernate.connection.autoReconnectForPools">
+			true
+		</property>
+		<property name="hibernate.connection.is-connection-validation-required">
+			true
+		</property>
+		<property name="hibernate.bytecode.use_reflection_optimizer">
+			true
+		</property>
+
+		<!--<property name="hibernate.query.factory_class">org.hibernate.hql.classic.ClassicQueryTranslatorFactory</property> -->
+
+		<!-- Drop and re-create the database schema on startup -->
+		<!-- <property name="hbm2ddl.auto">create</property> -->
+
+		<!-- JDBC connection pool (use the built-in) -->
+		<!-- <property name="connection.pool_size">2</property> -->
+
+		<!-- Enable Hibernate's current session context -->
+		<!-- 这个使用后，spring无法管理sessionFactory -->
+		<!-- <property name="current_session_context_class">org.hibernate.context.ManagedSessionContext</property> -->
+
+		<!-- JPA Mapping Class -->
+		<!-- 权限实体 -->
+		<mapping class="sunit.accesscontrol.object.Depart" />
+		<mapping class="sunit.accesscontrol.object.Job" />
+		<mapping class="sunit.accesscontrol.object.Entity" />
+		<mapping class="sunit.accesscontrol.object.Node" />
+		<mapping class="sunit.accesscontrol.object.Role" />
+
+		<mapping class="sunit.accesscontrol.object.User" />
+		<mapping class="sunit.accesscontrol.object.NodeGroup" />
+		<mapping class="sunit.accesscontrol.object.LoginControl" />
+		<mapping class="sunit.accesscontrol.object.DepartImage" />
+		<mapping class="sunit.app.hzpx.object.TrainPlan" />
+		<mapping class="sunit.app.hzpx.object.TrainPlanWorkType" />
+		<mapping class="sunit.app.hzpx.object.TrainPlanWorkTypeSub" />
+		<mapping class="sunit.app.hzpx.object.TrainResult" />
+		<mapping class="sunit.app.hzpx.object.TrainResultDetail" />
+		<mapping class="sunit.app.hzpx.object.TrainResultImages" />
+		<mapping class="sunit.app.hzpx.object.WorkType" />
+		<mapping class="sunit.app.hzpx.object.WorkTypeSub" />
+
+		<mapping class="sunit.app.hzpx.object.courseware.CourseWare" />
+		<mapping class="sunit.app.hzpx.object.Article" />
+		<mapping class="sunit.app.hzpx.object.ArticleComment" />
+		<mapping class="sunit.app.hzpx.object.QuestionPost" />
+		<mapping class="sunit.app.hzpx.object.ReplyPost" />
+		<mapping class="sunit.app.hzpx.object.DataFile" />
+
+
+
+		<mapping class="sunit.accesscontrol.object.Professor" />
+		<mapping class="sunit.accesscontrol.object.Person" />
+		<mapping class="sunit.accesscontrol.object.Company" />
+		<mapping class="sunit.accesscontrol.object.GorveManager" />
+
+		<mapping class="sunit.app.infopublish.object.TechSupp" />
+		<mapping class="sunit.app.infopublish.object.TechDema" />
+
+		<mapping class="sunit.app.infopublish.object.ProductSupply" />
+		<mapping class="sunit.app.infopublish.object.ProductBuy" />
+
+		<mapping class="sunit.app.infopublish.object.Investment" />
+
+		<mapping class="sunit.app.infopublish.object.LogisticsSupp" />
+		<mapping class="sunit.app.infopublish.object.LogisDemand" />
+
+		<mapping class="sunit.app.infopublish.object.JobSeek" />
+
+		<mapping class="sunit.app.infoexchange.objcet.InfoReply" />
+
+
+		<mapping class="sunit.app.elecbusiness.object.AgricultureFirstType" />
+		<mapping class="sunit.app.elecbusiness.object.AgricultureSecondType" />
+		<mapping class="sunit.app.elecbusiness.object.AgricultureThirdType" />
+
+		<mapping class="sunit.app.infoexchange.objcet.OfflineProfessorQuestion" />
+		<mapping class="sunit.app.infoexchange.objcet.TechQuesReply" />
+
+		<mapping class="sunit.app.elecbusiness.object.DataLocation" />
+
+		<mapping class="sunit.accesscontrol.object.FeaturedProduct" />
+		<mapping class="sunit.app.elecbusiness.object.HProduct" />
+
+
+		<mapping class="sunit.app.techinfo.object.TechInfoFirstType" />
+		<mapping class="sunit.app.techinfo.object.TechInfoSecondType" />
+
+		<mapping class="sunit.app.infopublish.object.CompanyNews" />
+		<mapping class="sunit.app.infopublish.object.Recruit" />
+		
+		
+
+		<mapping class="sunit.app.town.object.Aquaculture" />
+		<mapping class="sunit.app.town.object.Fruit" />
+		<mapping class="sunit.app.town.object.Vegetable" />
+		<mapping class="sunit.app.town.object.Town" />
+		<mapping class="sunit.app.town.object.FeatureProduct" />
+		
+		<mapping class="sunit.app.infopublish.object.Train"/>
+
+		<mapping class="sunit.app.infoservices.object.TechInfo" />
+		<mapping class="sunit.app.infoservices.object.ArticleNews" />
+		
+		<mapping class="sunit.app.detect.object.DetectLaw" />
+		<mapping class="sunit.app.detect.object.DetectInst" />
+		<mapping class="sunit.app.detect.object.DetectService" />
+		
+		<!-- add by cyq 2015-4 -->
+		<mapping class="sunit.app.push.object.RSSInfo" />
+		<mapping class="sunit.app.push.object.ChaAgriProInfo" />
+		<mapping class="sunit.app.push.object.AgrInfo" />
+		<mapping class="sunit.app.push.object.Interes" />
+		<mapping class="sunit.app.push.object.UserLog" />
+		
+	</session-factory>
+</hibernate-configuration>

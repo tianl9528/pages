@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+.topexpert {
+float: left;
+width: 910px;
+height: 180px;
+overflow: hidden;
+padding: 20px 40px;
+}
+.pic7 {
+float: left;
+width: 120px;
+height: 145px;
+overflow: hidden;
+padding-right: 20px;
+}
+.cont7 {
+float: right;
+width: 700px;
+height: 145px;
+overflow: hidden;
+text-align: left;
+}
+.moreexpert{
+padding: 0;
+margin: 0;
+}
+
+.bookline {
+height: 5px;
+border-bottom: 1px solid #d8d8d8;
+float: left;
+width: 100%;
+}
+ .left {
+float: left;
+}
+.expertsa {
+float: left;
+width: 100%;
+overflow: hidden;
+}
+.margintop20 {
+margin-top: 30px;
+}
+.experts {
+float: left;
+width: 310px;
+height: 195px;
+overflow: hidden;
+}
+.c {
+float: left;
+width: 161px;
+height: 105px;
+overflow: hidden;
+line-height: 120%;
+padding-top: 5px;
+}
+.epic {
+float: left;
+width: 138px;
+height: 194px;
+overflow: hidden;
+padding-right: 10px;
+}

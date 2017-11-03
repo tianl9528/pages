@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>病虫害预报</title>
+    <link>http://localhost:8080/gdzyzmmv2/push/bchyblist.action</link>
+    <description>病虫害预报</description>
+    <language>zh-ch</language>
+    <copyright>广东省专业镇信息服务平台</copyright>
+    <pubDate>Thu, 07 May 2015 12:15:24 GMT</pubDate>
+    <dc:date>2015-05-07T12:15:24Z</dc:date>
+    <dc:language>zh-ch</dc:language>
+    <dc:rights>广东省专业镇信息服务平台</dc:rights>
+    <item>
+      <title>荔枝病虫发生动态</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320385300034</link>
+      <description>&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据各地近期调查，荔枝病虫总体中等发生，主要病虫有：蒂蛀虫、&lt;/span&gt;&lt;span style="font-size:14px;"&gt;蝽蟓、&lt;/span&gt;&lt;span style="font-size:14px;"&gt;霜疫霉病、炭疽病，另外&lt;/span&gt;&lt;span style="font-size:14px;"&gt;瘿螨、尺蠖、金龟子&lt;/span&gt;&lt;span style="font-size:14px;"&gt;等也有不同程度发生。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;蒂蛀虫：&lt;/span&gt;&lt;span style="font-size:14px;"&gt;在早、中熟品种上中等、局部偏重发生，&lt;/span&gt;&lt;span style="font-size:14px;"&gt;发生期较去年早。廉江市站调查，落地果蛀果率一般4.6%，高的26.8%，百果虫量一般3.5头，高的21.3头；高州市站调查，中熟品种白糖罂落地果蛀果率平均4.4%，高的14.1%，百果虫数平均4.1头，高的13.7头；增城市站调查，三月红落地果蛀果率平均68%，百果虫量平均42.4头。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;蝽蟓：&lt;/span&gt;&lt;span style="font-size:14px;"&gt;中等发生。茂名市站调查，百梢成虫量一般5-8头；增城市站调查，百梢虫量一般75-175头，其中15-25头，若虫60-150头；东莞市站调查，百梢虫量平均25头，其中成虫10头，若虫15头；博罗县站调查，百梢虫量一般1-7头。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;霜疫霉病&lt;/span&gt;&lt;span style="font-size:14px;"&gt;：偏轻、局部中等发生。电白县站调查，荔枝早熟品种树上果病果率一般1.52%，高的2.27%，落地果病果率一般5.68%，高的7.29%；深圳市站调查，病叶率一般1.5-5.3%，花穗病穗率一般1.8%-2.1%；东莞市站调查，病叶率平均0.2%，花穗病穗率平均6.5%。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;炭疽病&lt;/span&gt;&lt;span style="font-size:14px;"&gt;：偏轻发生。阳春市站调查，病叶率一般3.9%-6.4%，花穗病穗率一般10%-31%；茂名市站调查，病叶率一般0.6%-1.2%，花穗病穗率0.3%-0.8%；东莞市站调查，病穗率平均0.5%、病果率平均1.5%。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;当前，我省荔枝早熟品种处于膨大期至转色期，中、迟熟荔枝品种处于幼果期，早、中、迟熟品种混栽现象较普遍，利于蒂蛀虫等虫害辗转为害。&lt;/span&gt;&lt;span style="font-size:14px;"&gt;我省大部分地区陆续进入汛期&lt;/span&gt;&lt;span style="font-size:14px;"&gt;，高温多雨天气&lt;/span&gt;&lt;span style="font-size:14px;"&gt;利于&lt;/span&gt;&lt;span style="font-size:14px;"&gt;荔枝病虫滋生为害&lt;/span&gt;&lt;span style="font-size:14px;"&gt;。预计荔枝病虫发生程度将进一步加重，达中等、局部偏重程度。其中，第二代荔枝蒂蛀虫成虫高峰期由南至北依次出现在4月下旬至5月上旬，第三代蒂蛀虫&lt;/span&gt;&lt;span style="font-size:14px;"&gt;在早熟品种上偏重发生，在中迟熟品种上中等发生&lt;/span&gt;&lt;span style="font-size:14px;"&gt;；霜疫霉疫病和炭疽病中等发生。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;各地要加强田间调查监测，掌握病虫发生动态，及时发布预报，分类指导果农开展防治工作，&lt;/span&gt;&lt;span style="font-size:14px;"&gt;确保荔枝生产安全&lt;/span&gt;&lt;span style="font-size:14px;"&gt;。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>病虫害预报</category>
+      <pubDate>Mon, 27 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320385300034</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-27T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>迁飞性害虫发生动态</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320372500033</link>
+      <description>&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;目前，我省早稻处于分蘖期。稻飞虱、稻纵卷叶螟迁入峰出现偏早，迁入量比去年高、与常年相近，田间虫量较低。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;一、稻飞虱&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;今年白背飞虱灯下始见期3月3日，与常年接近。3月份，我省各监测点均诱得稻飞虱，较去年早，一般单灯共诱虫20头，比去年同期略高，其中雷州单灯分别共诱得白背飞虱437头、褐飞虱561头。4月迁入范围广、出现明显迁入峰，灯下虫量较大。受气流影响，全省各地灯下均出现迁入峰，粤西灯诱虫量较大，雷州站监测，4月3日-5日单灯共诱白背飞虱6680头、褐飞虱229头，4月17日-19日雷州单灯共诱得白背飞虱980头、褐飞虱3头;阳西站监测，4月16日-20日单灯共诱白背飞虱859头、褐飞虱405头。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;目前，据各地调查，田间虫量较低，4月下旬一般百丛虫量10-60头，高的150-520头，雷州市站4月19日调查，田间一般百丛虫量20-260头，高的520头，以白背飞虱为主。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;二、稻纵卷叶螟&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4&lt;/span&gt;&lt;span style="font-size:14px;"&gt;月5日&lt;/span&gt;&lt;span style="font-size:14px;"&gt;始见蛾，与常年相近，粤西地区早插田虫口密度较高。4月中、下旬，全省亩蛾量一般10-60头，高的100-500头。雷州站监测，4月17日-18日调查，亩蛾量一般10-30头，最高90头，亩幼虫量一般333-2667头，个别早插田块高达6670头;广州站监测，4月21-23日出现迁入峰，田间赶蛾亩蛾量一般100-200头，高的450-950头，早插田亩幼虫量一般200-1000头，高的1650-2700头;阳春站监测，4月24日调查，亩蛾量平均37头，高的167头，早插田块亩幼虫量高的7300头，卷叶率平均1.56%。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;随着汛期的到来和受西南气流的影响，迁飞性害虫将继续迁入，增加田间虫源基数。同时，随着气温的回升和田间禾苗的生长，将利于两迁害虫的滋生、繁殖，田间虫口密度将迅速上升。各地要密切关注迁飞性害虫发生动态，加强监测，及时准确发出预测预报，为指导防治提供科学依据。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>病虫害预报</category>
+      <pubDate>Mon, 27 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320372500033</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-27T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>柑橘木虱发生动态</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015042720452800000</link>
+      <description>&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据各地近期调查，我省多地柑桔果园均监测到柑橘木虱，部分地区虫口密度较高，全省柑橘主产区一般百梢虫量&amp;nbsp;20-100&amp;nbsp;头，高的1000头。据怀集站调查，一般百梢虫量75-150头，高的300-400头；高要站、惠东站调查百梢虫量分别为20-30头和60-80头；清新站调查冬季未清园果园百梢虫量达1900头。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;柑橘木虱是柑橘黄龙病田间传播的重要媒介，随着天气回暖，春梢旺长，利于柑橘木虱的繁殖，潜在较大传毒风险。各地要加强柑橘木虱的调查监测，及时掌握其发生动态，科学指导果农开展柑橘木虱防控工作，压低虫源基数，遏制柑橘黄龙病的传播蔓延，保障全省柑橘产业健康发展。&#xD;
+&lt;/p&gt;</description>
+      <category>病虫害预报</category>
+      <pubDate>Wed, 22 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015042720452800000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-22T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>越北腹露蝗发生动态</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320401000035</link>
+      <description>&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据韶关、清远近期调查，越北腹露蝗蝗蝻已陆续出土，出土期比去年早，发生区虫口密度与去年持平。英德站蝗蝻出土始见日为3月24日，比去年早11天；冬后虫源地卵囊密度一般每平方米3-5块，平均4块，最高6块；3月28日，历史蝗区亩有蝗蝻一般2-4团，4月9日，亩有蝗蝻上升到20-30团约1-2.4万头。连南县虫源地卵囊一般每平方米0.7-6.3块，加权平均2.4块，蝗卵粒死亡率3.0%。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;根据越北腹露蝗虫源基数、卵孵化程度及蝗蝻出土情况、天气及寄主条件等综合分析，预测越北腹露蝗在清远、韶关中等发生，在桑地等嗜好作物上偏重发生，发生面积约20万亩；低龄蝗蝻高峰期为4月中、下旬。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;随着气温&lt;/span&gt;&lt;span style="font-size:14px;"&gt;逐步回&lt;/span&gt;&lt;span style="font-size:14px;"&gt;升，虫源地杂草生长茂密，利于越北腹露蝗&lt;/span&gt;&lt;span style="font-size:14px;"&gt;蝗&lt;/span&gt;&lt;span style="font-size:14px;"&gt;蝻取食和扩散危害。各地要&lt;/span&gt;&lt;span style="font-size:14px;"&gt;根据本地蝗虫发生特点，制定防控对策，因地制宜落实防控措施。一要抓准防治适期，在蝗蝻集结期及时喷施药&lt;/span&gt;&lt;span style="font-size:14px;"&gt;剂&lt;/span&gt;&lt;span style="font-size:14px;"&gt;，确保&lt;/span&gt;&lt;span style="font-size:14px;"&gt;不错失最佳防治时机&lt;/span&gt;&lt;span style="font-size:14px;"&gt;。二要选准对口药剂，&lt;/span&gt;&lt;span style="font-size:14px;"&gt;蚕桑区严禁使用BT乳剂、杀虫单、杀虫双、氯氰菊酯等药剂，&lt;/span&gt;&lt;span style="font-size:14px;"&gt;推广安全、科学的用药技术，防止人畜中毒以及农作物药害事故发生。三要在荒地、滩涂、竹林等公共场所开展专业化&lt;/span&gt;&lt;span style="font-size:14px;"&gt;统防统治&lt;/span&gt;&lt;span style="font-size:14px;"&gt;，积极发动群众进行群防群&lt;/span&gt;&lt;span style="font-size:14px;"&gt;治&lt;/span&gt;&lt;span style="font-size:14px;"&gt;。四要施药后做好查漏补缺工作，对漏治或者防治效果不理想的区域及时补药防治，&lt;/span&gt;&lt;span style="font-size:14px;"&gt;确&lt;/span&gt;&lt;span style="font-size:14px;"&gt;保&lt;/span&gt;&lt;span style="font-size:14px;"&gt;灭&lt;/span&gt;&lt;span style="font-size:14px;"&gt;蝗效果。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>病虫害预报</category>
+      <pubDate>Wed, 22 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320401000035</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-22T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>当前蔬菜病虫发生动态</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320422000036</link>
+      <description>&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;受气温回升和降雨增多及蔬菜品种布局调整等影响，近期蔬菜病虫害总体中等，局部偏重发生。发生特点为虫害重于病害，主要发生的病虫有：黄曲条跳甲、小菜蛾、瓜蓟马、烟粉虱、霜霉病、疫病、白粉病等。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 黄曲条跳甲：中等、局部偏重发生。百株虫量一般60-150头，高的300-500头。汕头站调查，油菜百株虫量平均140头；中山市站调查，菜心百株虫量平均85头；惠阳区站调查，菜心百株虫量达504头。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 小菜蛾：中等、局部偏重发生。百株虫量一般80-150头，高的270头。汕头市站调查，白菜百株虫量平均140头；惠阳区站调查，菜心百株虫量平均133头。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 瓜蓟马：中等、局部偏重发生。百叶虫量一般200-1400头，高的3200头。惠城区站调查，茄子受害率达94%，百叶虫量达2073头；陆河县站调查，茄瓜类百花虫量一般280-450头。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 烟粉虱：中等发生。百叶虫量一般50-200头，高的312头。中山站调查，青瓜百叶虫量平均41头，节瓜百叶虫量平均70头，番茄百叶虫量平均53头。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 霜霉病：中等、局部偏重发生。病株率平均32.9%，高的达100%，病指平均8.0，高的达25.9。惠阳站调查，瓜类病株率平均13.8%，高的35%；十字花科蔬菜病株率平均24.2%。江门市站调查，瓜类病株率平均20%，高的80%。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 疫病：中等发生。病叶率一般2.0%-6.2%，高的12%。惠东站调查，番茄病株率平均12%，病情指数11.6。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 白粉病：偏轻、局部中等发生。病叶率一般1.8%-3%，高的7%。惠阳区站调查，苦瓜病叶率平均3.2%。中山市站调查，四季豆病叶率3%，荷兰豆病叶率7%。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 此外，美洲斑潜蝇、蚜虫、菜青虫、斜纹夜蛾、炭疽病、枯萎病、病毒病、灰霉病等也有不同程度发生。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 目前，我省气温回升迅速，各地陆续进入汛期，高温多雨天气有利于黄曲条跳甲、小菜蛾、瓜蓟马、霜霉病、疫病等病虫发生，预计蔬菜病虫发生进一步加重，达偏重发生，局部重发程度。&lt;/span&gt;&lt;br /&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 各地要深入田间地头，加强病虫调查监测和预警，分类指导菜农做好防治工作，对达到防治指标的田块，要选用高效、低毒、低残留对口农药进行防治。&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;</description>
+      <category>病虫害预报</category>
+      <pubDate>Fri, 10 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320422000036</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-10T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>广东省4月水产养殖病害预测预报</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320451500037</link>
+      <description>&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月份我省降水较多，气温、水温开始升高，病菌、寄生虫也进入活跃期，养殖水生动物发病率将呈上升趋势。渔业生产进入繁忙季节，养殖水生动物摄食量逐渐增加，及时做好水生动物病害防控工作。我省进入水产苗种繁殖期，加强对亲鱼的培育饲养，保证饲料质量，做好水产苗种人工繁育工作。近期降水较多，要做好鱼、虾塘的水质调控，特别是刚放养的鱼、虾苗，要注意做好饲养管理工作。鳖经过越冬期后体质较弱，容易发生各种病害，要注意加强饲养管理，增强体质，提高其抗病能力。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;一、病情预测&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;1、淡水养殖鱼类：易发生车轮虫病、斜管虫病、细菌性败血病、烂鳃病、肠炎病等，重点关注全省养殖区域。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;2、甲鱼：易发生腐皮病，重点关注珠江三角洲养殖区域。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;3、海水鱼：易发生刺激隐核虫病，重点关注全省沿海养殖区域。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;4、南美白对虾：易发生白斑病，重点关注珠江三角洲、粤西地区高密度养殖区域。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;5、罗氏沼虾：易发生白尾病，重点关注珠江三角洲养殖区域&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;二、防治措施&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;1、预防淡水鱼类车轮虫病、斜管虫病：彻底清塘消毒，鱼种放养前可用硫酸铜或用高锰酸钾浸泡，硫酸铜、硫酸亚铁粉防治车轮虫病和斜管虫病。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;2、预防淡水鱼类细菌性败血病、烂鳃病、肠炎病：彻底清塘消毒，溴氯海因粉用水稀释后全池泼洒，氟苯尼考粉拌铒投喂。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;3、预防刺激隐核虫病：（１）网箱合理排放，使水流交换顺畅，放养密度要适宜。（2）投喂人工配合饲料，减少冰鲜鱼、鲜鱼做饲料。（3）淡水浸浴病鱼3～20分钟，酌情在浸泡液中加入抗菌剂。（４）投喂多维和免疫增强剂等加强营养，提高抗病力。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;4、预防甲鱼腐皮病：高锰酸钾溶液浸洗10-15分钟。不投喂变质饲料,并在饲料中添加多维和免疫增强剂等加强营养。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;5、预防南美白对虾白斑病：选择不带病毒的虾苗，聚维酮碘溶液用水稀释后，全池泼洒，定期泼洒微生物制剂和底质改良剂，调节水质，在饲料中添加多维和免疫增强剂等加强营养。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;6、预防罗氏沼虾白尾病：选择不带病毒的虾苗，定期泼洒微生物制剂和底质改良剂，调节水质，在饲料中添加多维和免疫增强剂等加强营养。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>病虫害预报</category>
+      <pubDate>Sun, 22 Mar 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320451500037</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-03-22T16:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

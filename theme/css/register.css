@@ -1,0 +1,33 @@
+/*!
+
+ *注册页面
+
+ */
+
+body{
+    background-color:#eeeeec;
+    margin: 0px;
+	color: #535353;
+	font:13px/23px "微软雅黑",Verdana,Geneva,sans-serif;
+}
+
+.header{padding:70px 0 90px 0;background:#71a839;color: #fff;}
+.header .header_express{width:658px;margin:0 auto 0 auto;}
+
+/*container*/
+
+.panel{width:685px;margin:-76px auto 0px auto; border-radius:16px;}
+ .panel-heading{height:76px;background:#2B7128;border-radius:16px 16px 0 0;box-shadow: 0 1px 10px rgba(0, 0, 0, 0.4);}
+ h2{ font-size:2.5em;color:white;}
+
+ .panel-body{margin:20px 0 0 50px;}
+
+ .form-group{padding-bottom:15px;}
+ .form-control{height: 40px;}
+ #news{margin:-15px 0 0 0;}
+ .form-group img {border-radius:6px;border:solid 1px gray;width:80px;height:38px;margin-left:45px; }
+ 
+  button{margin-left: 20px}
+
+
+

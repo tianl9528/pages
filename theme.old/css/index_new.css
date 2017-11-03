@@ -1,0 +1,169 @@
+@charset "utf-8";
+body{
+	/*background: #eeeeee url(../images/body-2.png);*/
+	margin: 0 ;
+	/*padding-top: 70px; */
+	color: #535353;
+	font:13px/23px "寰蒋闆呴粦",Verdana,Geneva,sans-serif;
+}
+
+.yy_top{
+	background-color:#71a839;box-shadow: 0 1px 10px rgba(0, 0, 0, 0.7);
+}
+.navbar-default {
+background-color: #FDFCFC;
+}
+.container>ul.nav>li>a{
+	color: white;
+}
+.container>.nav > li > a:hover, .container>.nav > li > a:focus {
+	text-decoration: none;
+	background-color: #71a839;color: black;
+}
+.modal-body{
+	font-size: 18px;
+    padding: 0 0 0 80px;
+}
+
+
+
+a{
+	color: #535353;
+}
+.container{
+	width: 960px;
+}
+.dropdown-menu li a:hover, .dropdown-menu .active a, .dropdown-menu .active a:hover {
+    color: #eeeeee;
+	background:#71a839;
+   
+}
+
+.yy_divbg{
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0 2px 6px #eeeeee;
+	border: 1px solid #dadada;
+	padding: 0 0 0 0;
+}
+.yy_header{
+	height: 154px;
+}
+.yy_logo{
+	padding-top: 35px;
+}
+.yy_phone{
+	padding-top:5px; 
+}
+.yy_addr{
+	height: 28px;
+}
+.yy_lunbo{
+	height: 280px;
+	margin-top: 15px;
+	box-shadow: 0 2px 6px #eeeeee;
+	 border-radius: 10px;	
+}
+.nav-tabs{border-bottom: 1px solid #2AAD12;}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+color: #555;
+cursor: default;
+background-color: white;
+border: 1px solid #2AAD12;
+border-bottom-color: transparent;
+}
+
+.carousel-inner .item .active{
+  border-radius: 10px;	
+}
+.yy_zyz{
+	padding:15px 0 0 15px; 
+}
+.yy_zyzcont{
+	padding:15px 0 0 15px; 
+}
+.yy_show{
+	height:300px;
+	margin-top:15px;
+}
+.yy_bordr{
+ border-right: 1px solid #eeeeee;
+}
+.yy_bordb{
+	 border-bottom: 1px solid #eeeeee;
+}
+.yy_laws{
+	margin-top:15px;
+
+}
+.yy_law{
+	border-bottom: 1px solid #eeeeee;
+
+}
+.yy_zhao{
+	padding-top:15px; 
+}
+.yy_zhi{
+  padding-left: 15px;
+}
+.yy_more,.yy_more>a{
+	float: right;
+	color: green;
+}
+
+
+.yy_footer{
+	height:200px;
+	margin-top: 15px;
+}
+.yy_myphone{
+	padding-top: 20px;
+	border-bottom: 1px solid #dadada;
+}
+.yy_copy{
+	padding-top: 20px;
+}
+
+.stepcarousel {
+	margin: 0px auto; overflow: scroll; width: 850px; position: relative; height: 220px;
+
+}
+.stepcarousel .belt {
+	left: 0px; position: absolute; top: 0px
+}
+#displaycssbelt {
+	visibility: hidden
+}
+#stocklevels {
+	visibility: hidden
+}
+.stepcarousel .panel {
+	float: left; margin: 0px 31px 0px 25px; overflow: hidden; width: 182px;
+}
+.stock {
+	clear: both; font-size: 10px; padding-bottom: 5px; margin: 0px auto; width: 829px; color: #000; border-bottom: #000 1px dashed; font-family: arial, verdana, sans-serif; height: 10px; text-align: right;
+}
+.subfeature {
+	display: block; margin: 0px; overflow: hidden; 
+}
+.subfeature>img{width: 350px;height: 250px;}
+.subfeature-txt {
+	 float: left;  margin: 0px; width: 182px! important; line-height: 17px;  position: relative;
+	padding: 3px 0px 0 0;
+}
+.subfeature-txt h2 {
+	clear: both; font-weight: bold; font-size: 14px; padding-bottom: 3px
+}
+.subfeature-txt h2 a {
+	color: #000
+}
+.subfeature-txt h2 a:hover {
+	color: #ff0076
+}
+.subfeature a img {
+
+	border:1px 1px 1px 1px transparent solid;;
+}
+.subfeature a img:hover {
+	BORDER-RIGHT: #ff0076 1px dashed; BORDER-TOP: #ff0076 1px dashed; BORDER-LEFT: #ff0076 1px dashed; border-bottom: #ff0076 1px dashed
+}

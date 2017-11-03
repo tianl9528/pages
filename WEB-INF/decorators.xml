@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<decorators defaultdir="/decorators">
+	<!--无封套 -->
+    <excludes>
+		<!-- 无封套 -->
+		<pattern>/error.*</pattern>
+		<pattern>/login.*</pattern>
+		<pattern>/download.*</pattern>
+		<pattern>/login-wap.*</pattern>
+		<pattern>/logout.*</pattern>
+		
+		<pattern>/main.*</pattern>
+		
+		<pattern>/register.*</pattern>
+		<pattern>/forgetpwd.*</pattern>
+		<pattern>/findpwd.*</pattern>
+		<pattern>/message.jsp</pattern>
+		<pattern>/regist.action</pattern>
+		
+		<pattern>/main.*</pattern>
+		<pattern>/noright.*</pattern>
+		<pattern>/outtime.*</pattern>
+		<pattern>/swith.*</pattern>
+		<pattern>/j_security_check</pattern>
+        <pattern>/check*</pattern>
+
+        <pattern>/select/*</pattern>
+        <pattern>/upload/*</pattern>
+    	<pattern>/app_theme/*</pattern>
+    	<pattern>/theme/*</pattern>
+    	<pattern>/content/*</pattern>
+    	<pattern>/datalist.*</pattern>
+    	<!-- 丰富格式编辑器 -->
+    	<pattern>/fckeditor/*</pattern>
+    	
+
+		<!-- 权限部分 -->
+		<pattern>/app/accesscontrol/change_alluser_password_toMD5_temp.jsp*</pattern>
+		<pattern>/app/accesscontrol/select/*</pattern>
+		<pattern>/app/accesscontrol/operate/*</pattern>
+		<pattern>/app/accesscontrol/roleTreeXml.jsp</pattern>
+		<pattern>/app/accesscontrol/role_tree_iframe.jsp*</pattern>
+		<!-- 导出Excel -->
+		<pattern>/app/excel/*</pattern>
+		
+		<!-- 弹出框 -->
+		<pattern>/app/common/message.jsp</pattern>
+		<pattern>/town/towndetail.*</pattern>	
+		
+		<pattern>/infoservices/techinfolist.*</pattern>
+		<pattern>/infoservices/techinfoadd.*</pattern>
+		<pattern>/infoservices/techinfoedit.*</pattern>
+		
+		<pattern>/infoservices/articleNewslist.*</pattern>
+		<pattern>/infoservices/articleNewsadd.*</pattern>
+		<pattern>/infoservices/articleNewsedit.*</pattern>
+		<pattern>/infoservices/articleNewsframe.*</pattern>
+		
+		<pattern>/detect/detectinstlist.*</pattern>
+		<pattern>/detect/detectinstadd.*</pattern>
+		<pattern>/detect/detectinstedit.*</pattern>
+		
+		<pattern>/detect/detectlawlist.*</pattern>
+		<pattern>/detect/detectlawadd.*</pattern>
+		<pattern>/detect/detectlawedit.*</pattern>
+		
+		<pattern>/detect/detectservlist.*</pattern>
+		<pattern>/detect/detectservadd.*</pattern>
+		<pattern>/detect/detectservedit.*</pattern>
+		
+		<pattern>/usermanager/model*.*</pattern>
+		<pattern>/usermanager/list/*</pattern>
+		
+		
+    </excludes>
+
+	<!-- 样式框架页面 -->
+	<decorator name="app" page="/theme/systheme.jsp">
+        <pattern>/*</pattern>
+    </decorator>
+</decorators>

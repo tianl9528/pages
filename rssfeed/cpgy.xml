@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>产品供应</title>
+    <link>http://localhost:8080/gdzyzmmv2/elecBusiness/supplyInfo.action</link>
+    <description>产品供应</description>
+    <language>zh-ch</language>
+    <copyright>广东省专业镇信息服务平台</copyright>
+    <pubDate>Wed, 06 May 2015 01:07:05 GMT</pubDate>
+    <dc:date>2015-05-06T01:07:05Z</dc:date>
+    <dc:language>zh-ch</dc:language>
+    <dc:rights>广东省专业镇信息服务平台</dc:rights>
+    <item>
+      <title>枸杞</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051210590100003&amp;supplyerid=2014050119211300001</link>
+      <description>枸杞一年四季皆可服用，冬季宜煮粥，夏季宜泡茶</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 02:59:01 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051210590100003&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T02:59:01Z</dc:date>
+    </item>
+    <item>
+      <title>西瓜</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014050119353300002&amp;supplyerid=2014050119211300001</link>
+      <description>果肉乳白、淡黄、深黄、淡红、大红等色</description>
+      <category>产品供应</category>
+      <pubDate>Thu, 01 May 2014 11:35:33 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014050119353300002&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-01T11:35:33Z</dc:date>
+    </item>
+    <item>
+      <title>青菜</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051210442600000&amp;supplyerid=2014050119211300001</link>
+      <description>又名小白菜，中国东北称油菜，为一年生草本，茎、叶用蔬菜，颜色深绿</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 02:44:26 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051210442600000&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T02:44:26Z</dc:date>
+    </item>
+    <item>
+      <title>瓜子</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211010300004&amp;supplyerid=2014050119211300001</link>
+      <description>味甘，性平。现代用以降低血脂，又能驱虫。</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 03:01:03 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211010300004&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T03:01:03Z</dc:date>
+    </item>
+    <item>
+      <title>猕猴挑苗</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211093000007&amp;supplyerid=2014050119211300001</link>
+      <description>水杨桃嫁接猕猴桃苗因为是由野生资源选育出来的，所以它的抗病虫害能力很强</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 03:09:30 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211093000007&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T03:09:30Z</dc:date>
+    </item>
+    <item>
+      <title>饼肥</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211114500008&amp;supplyerid=2014050119211300001</link>
+      <description>蓖麻籽饼，饼肥</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 03:11:45 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211114500008&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T03:11:45Z</dc:date>
+    </item>
+    <item>
+      <title>银杏</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211042300005&amp;supplyerid=2014050119211300001</link>
+      <description>为银杏科、银杏属落叶乔木，别名白果，公孙树，鸭脚树，蒲扇</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 03:04:23 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211042300005&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T03:04:23Z</dc:date>
+    </item>
+    <item>
+      <title>龙虾</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051210495300001&amp;supplyerid=2014050119211300001</link>
+      <description>又名大虾、龙头虾、虾魁、海虾等，它头胸部较粗大，外壳坚硬，色彩斑斓，腹部短小</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 02:49:53 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051210495300001&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T02:49:53Z</dc:date>
+    </item>
+    <item>
+      <title>石螺</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051210554300002&amp;supplyerid=2014050119211300001</link>
+      <description>壳硬、其外壳呈深绿色、暗黑，或黄色，形略长也有椭圆形的，体形比田螺小</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 02:55:43 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051210554300002&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T02:55:43Z</dc:date>
+    </item>
+    <item>
+      <title>桃苗</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211064100006&amp;supplyerid=2014050119211300001</link>
+      <description>中华寿桃：该品种树势健壮，直力，成枝力强，有明显的短枝性状，易成花，自花受粉达53%，早期丰产性好，果实近圆形</description>
+      <category>产品供应</category>
+      <pubDate>Mon, 12 May 2014 03:06:41 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014051211064100006&amp;supplyerid=2014050119211300001</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-05-12T03:06:41Z</dc:date>
+    </item>
+    <item>
+      <title>荔枝</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014061811230700008&amp;supplyerid=2013082511035900014</link>
+      <description>荔枝味甘、酸、性温，入心、脾、肝经；可止呃逆，止腹泻，是顽固性呃逆及五更泻者的食疗佳品，同时有补脑健身，开胃益脾，有促进食欲之功效。</description>
+      <category>产品供应</category>
+      <pubDate>Wed, 18 Jun 2014 03:23:07 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2014061811230700008&amp;supplyerid=2013082511035900014</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2014-06-18T03:23:07Z</dc:date>
+    </item>
+    <item>
+      <title>龙眼</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2015052410122100000&amp;supplyerid=2014050714594000000</link>
+      <description>龙眼含丰富的葡萄糖、蔗糖、蛋白质等，自然生长，人工采摘、挑选</description>
+      <category>产品供应</category>
+      <pubDate>Sun, 24 May 2015 02:12:21 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2015052410122100000&amp;supplyerid=2014050714594000000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-05-24T02:12:21Z</dc:date>
+    </item>
+    <item>
+      <title>香蕉</title>
+      <link>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2015052410145300001&amp;supplyerid=2014050714594000000</link>
+      <description>果实饱满，个大肉甜，而且价赚</description>
+      <category>产品供应</category>
+      <pubDate>Sun, 24 May 2015 02:14:53 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/infoExchange/supplydetail.action?id=2015052410145300001&amp;supplyerid=2014050714594000000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-05-24T02:14:53Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

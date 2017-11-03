@@ -1,0 +1,326 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin:0;
+	padding:0;
+}
+a {
+	color:#00F;
+	text-decoration:none;
+}
+a:hover {
+	color:#F00;
+	text-decoration:underline;
+}
+body {
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	font-family:"宋体";
+	font-size:1em;
+	font-size:14px;
+	color:#000;
+	background-image: url(image/bg_01.png);
+	text-align:center;
+}
+
+textarea {
+	font-family:"宋体";
+	font-size:1em;
+	font-size:14px;
+}
+.body_title{
+	font-size:12px;
+	height:32px;
+	background-image:url(image/heard22_02.jpg);
+	margin-left:auto;
+	margin-right:auto;
+	color:#FFF;
+	text-align:left;
+}
+.base_content{
+	width:1024px;MARGIN-RIGHT:auto; MARGIN-LEFT:auto;background:#EFEFEF;border:1;outline-color: #D3D3D3;outline-style:solid;outline-width:thin;
+}
+
+.main_content{
+	width:96%;
+	MARGIN-RIGHT:auto; MARGIN-LEFT:auto;border-collapse:collapse;
+}
+
+
+._title td{
+	height:40px;
+	background-color: #f4f4f4;
+	vertical-align: middle;
+	padding:0 8px 0 8px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666;
+	text-align: center;
+	line-height:15px;
+	border-top: 2px solid #da0001;
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+}
+.title{
+	height:40px;
+	background-color: #f4f4f4;
+	vertical-align: middle;
+	padding:0 8px 0 8px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666;
+	text-align: center;
+	line-height:15px;
+	border-top: 2px solid #da0001;
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+}
+
+._title_second td{
+	height:32px;
+	background-color: #f4f4f4;
+	vertical-align: middle;
+	padding:0 8px 0 8px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666;
+	text-align: center;
+	line-height:15px;
+	border-top: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+}
+._title_second{
+	height:32px;
+	background-color: #f4f4f4;
+	vertical-align: middle;
+	padding:0 8px 0 8px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666;
+	text-align: center;
+	line-height:15px;
+	border-top: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+}
+.title_left {
+	height:32px;
+	background-color: #f4f4f4;
+	padding:3px;
+	font-size: 12px;
+	color: #333;
+	border-top: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+	line-height:25px;
+	text-align: center;
+}
+._content td {
+	height:32px;
+	background-color: #fff;
+	padding:3px;
+	font-size: 12px;
+	color: #333;
+	border-top: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+	line-height:25px;
+}
+.content {
+	height:32px;
+	background-color: #fff;
+	padding:3px;
+	font-size: 12px;
+	color: #333;
+	border-top: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+	line-height:25px;
+}
+._foot td{
+	height:30px;
+	line-height:15px;
+	background-color: #f4f4f4;
+	vertical-align: middle;
+	padding:0 8px 0 8px;
+	font-size: 12px;
+	color: #666;
+	text-align: center;
+
+	border-top: 2px solid #da0001;
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+	border-bottom: 1px solid #D3D3D3;
+
+}
+.foot{
+	height:30px;
+	line-height:15px;
+	background-color: #f4f4f4;
+	vertical-align: middle;
+	padding:0 8px 0 8px;
+	font-size: 12px;
+	color: #666;
+	text-align: center;
+
+	border-top: 2px solid #da0001;
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+	border-bottom: 1px solid #D3D3D3;
+
+}
+._content_select td {
+	height:32px;
+	padding:3px;
+	font-size: 13px;
+	color: #333;
+	line-height:25px;
+
+}
+.content_select {
+	height:32px;
+	padding:3px;
+	font-size: 13px;
+	color: #333;
+	line-height:25px;
+}
+
+
+/*********************** 表单 的样式 **************************/
+
+.btn {
+	height:23px;
+	font-size:13px;
+	text-align:center;
+	border-right:2px solid #436387;
+	border-top: 1px solid #436387;
+	border-left: 1px solid #436387 ;
+	border-bottom: 2px solid #436387;
+	background-color: #e7e7e7;
+	cursor:pointer;
+	padding:0px 3px 0px 3px;
+}
+.txt_log {
+	background:url(image/log_txt.gif); 
+	width:131px; 
+	height:26px; 
+	line-height:24px;
+	border:0px;
+}
+.txt_select {
+	font-size:13px;
+	color:#bb200;
+	border-right: 0px; 
+	border-top: 0px; 
+	border-left: 0px; 
+	border-bottom: 1px solid #436387; 
+	text_indent:2px;
+	border-ridge: #d6edef;
+	background-color: #efefef;
+}
+.txt_select_date {
+	width:80px;
+	font-size:13px;
+	color:#bb200;
+	border-right: 0px; 
+	border-top: 0px; 
+	border-left: 0px; 
+	border-bottom: 1px solid #436387; 
+	text_indent:2px;
+	border-ridge: #d6edef;
+	background-color: #efefef;
+	cursor:pointer;
+}
+.txt_input {
+	font-size:13px;
+	color:#bb200;
+	height:24px;
+	line-height:24px;
+	border-right: 1px solid #7f9db9; 
+	border-top: 1px solid #7f9db9; 
+	border-left: 1px solid #7f9db9; 
+	border-bottom: 1px solid #7f9db9; 
+}
+/*********************** ul li 的样式 **************************/
+._list_container{
+	width:982px;
+	MARGIN-LEFT:auto;
+	MARGIN-RIGHT:auto;
+}
+._list_title_li{
+	width:981px;
+	MARGIN-RIGHT:auto; 
+	MARGIN-LEFT:auto;
+	height:40px;
+	background-color: #f4f4f4;
+	border-top: 2px solid #da0001;
+	border-right: 1px solid #e0e0e0;
+
+}
+
+._list_content_li{
+	width:981px;
+	MARGIN-RIGHT:auto; 
+	MARGIN-LEFT:auto;
+	height:32px;
+	background-color:#fff;
+	border-top: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+}
+
+._list_foot_li{
+	width:980px;
+	MARGIN-RIGHT:auto; 
+	MARGIN-LEFT:auto;
+	height:32px;
+	background-color: #f4f4f4;
+	border-top: 2px solid #da0001;
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+	border-bottom: 1px solid #D3D3D3;
+}
+
+._list_title_ul{
+	 
+}
+._list_title_ul li{
+	width:130px;
+	height:30px;
+	float:left;
+	position:relative;
+	MARGIN-RIGHT:auto; 
+	MARGIN-LEFT:auto;
+	padding-top:10px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #666;
+	text-align: center;
+	border-left: 1px solid #e0e0e0;
+}
+
+._list_content_ul{
+	 
+}
+._list_content_ul li{
+	float:left;
+	position:relative;
+	height:24px;
+	padding-top:8px;
+	background-color: #fff;
+	font-size: 13px;
+	color: #333;
+	text-align: center;
+	border-left: 1px solid #e0e0e0;
+}
+
+._list_foot_ul{
+	 
+}
+._list_foot_ul li{
+	height:24px;
+	padding-top:8px;
+	font-size: 13px;
+	color: #333;
+	text-align: center;
+
+}

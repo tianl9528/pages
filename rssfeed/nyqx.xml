@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>农业气象</title>
+    <link>http://localhost:8080/gdzyzmmv2/push/nyqxlist.action</link>
+    <description>农业气象</description>
+    <language>zh-ch</language>
+    <copyright>广东省专业镇信息服务平台</copyright>
+    <pubDate>Thu, 07 May 2015 12:15:59 GMT</pubDate>
+    <dc:date>2015-05-07T12:15:59Z</dc:date>
+    <dc:language>zh-ch</dc:language>
+    <dc:rights>广东省专业镇信息服务平台</dc:rights>
+    <item>
+      <title>广东持续出现强降雨和雷电 需防范强对流天气及次生灾害</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320235600028</link>
+      <description>&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;一、天气实况&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;2日，韶关、清远、河源、梅州、肇庆、云浮、汕尾、揭阳、惠州和广州出现中到大雨，局部暴雨到大暴雨降水，并伴有短时强降水、雷电和8级左右雷雨大风等强对流天气；其余市县也出现分散阵雨或雷阵雨。根据全省气象站网的监测，02日08时至03日08时，全省共有9个气象站录得100～250毫米的大暴雨，其中镇仔村委会楼顶录得全省最大雨量127.4毫米；有65个气象站录得50～100毫米暴雨，有168个自动气象站录得25～50毫米大雨。3日早晨，河源、梅州、韶关的部分市县雷雨天气持续，其余市县多云间阴天，部分市县有轻雾，全省市县最低气温22～26℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;广州市2日出现分散雷阵雨，萝岗观象台没有录得雨量；白天最高气温30.4℃。3日早晨广州市阴天间多云，最低气温25.2℃，能见度10～20公里。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;二、未来几天天气预报&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;预计，未来三天我省受弱冷空气、切变线和高空槽影响，粤北、粤东和珠江三角洲大部市县有中到大（雷）雨，局部有暴雨和短时强降水、8级左右雷雨大风等强对流天气。具体预报如下：&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;3-4日，粤北、珠江三角洲和粤东大部市县有中到大（雷）雨，局部暴雨和短时强降水、8级左右雷雨大风等强对流天气；其余市县有（雷）阵雨。粤西和珠江三角洲气温25～33℃，其余市县21～30℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;5-6日，粤北、肇庆、云浮和珠江三角洲大部市县有中到大（雷）雨, 局部有暴雨到大暴雨和短时强降水、8级左右雷雨大风等强对流天气；其余市县有阵雨。粤西和珠江三角洲气温25～32℃，其余市县22～31℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;广州市：3日，有分散（雷）阵雨，25℃～31℃。4-5日，有雷阵雨，26℃～30℃。6日，有阵雨，26℃～32℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;三、关注和建议&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;1、目前是强对流天气多发时节，请注意防御雷电、局地短时大风和强降水及其可能引发的山体滑坡和泥石流等次生灾害。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;2、雨天路滑，能见度差，外出旅游请注意水陆交通安全。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Sat, 02 May 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320235600028</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-05-02T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>广东有强降雨和雷电天气 需防范强对流天气及次生灾害</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320253200029</link>
+      <description>&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;一、天气实况&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;２日早晨粤北偏西和粤西北部雨势强烈，伴有局地强降雨和雷雨大风等强对流天气，其余市县多云间阴天，部分市县有阵雨或轻雾，全省市县最低气温22～25℃。2日白天韶关、清远、河源、肇庆、云浮及梅州和汕尾的部分市县雨势强烈，强降水和雷雨大风明显，我省的其它市县也出现分散阵雨或雷阵雨；根据全省气象站网的监测，2日08时至2日17时，英德市青塘镇录得全省最大雨量84毫米；还有21个自动气象站录得50～100毫米雨量，72个自动气象站录得25～50毫米雨量。白天最高气温：东部大部市县28～30℃，其余大部市县30～32℃，其中湛江的徐闻站录得全省最高气温36.5℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;广州市2日早晨阴天间多云，最低气温25.5℃，较1日上升了1.5℃，2日白天出现分散性（雷）阵雨天气，萝岗观象台没有录得雨量，白天录得最高气温30.4℃。相对湿度介于64%～85%，能见度介于25到40公里。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;二、未来几天天气预报&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;预计，3日，粤北和粤东市县多云到阴天，有中（雷）阵雨，局部大雨到暴雨，其余市县有（雷）阵雨。粤西和珠江三角洲气温25～33℃，其余市县21～30℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;4-5日，粤北、珠江三角洲及云浮市有中到大（雷）雨, 局部有暴雨到大暴雨和短时强降水、8～10级的雷雨大风等强对流天气；其余市县有阵雨。粤西和珠江三角洲气温24～32℃，其余市县21～31℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;广州市： 5月3日，阴天间多云，局部有阵雨，25℃～31℃，相对湿度介于61%～96%，吹轻微至和缓的偏南风；5月4日，多云到阴天，有短时阵雨，24℃～30℃，相对湿度介于60%～94%，吹轻微的偏南风；5月5日，阴天，有雷阵雨，24℃～29℃，吹轻微至和缓的偏南风。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;三、关注和建议&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;1、目前是强对流天气多发时节，请注意防御雷电、局地短时大风和强降水及其可能引发的山体滑坡和泥石流等次生灾害。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;2、雨天路滑，能见度差，外出旅游请注意水陆交通安全。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Fri, 01 May 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320253200029</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-05-01T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>广东省局地强降雨和雷电天气持续 需防范强对流天气及次生灾害</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320263600030</link>
+      <description>&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;一、天气实况&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;1日早晨粤北和粤西市县有分散阵雨，其余市县多云，部分市县有轻雾，粤西大部和珠江三角洲市县最低气温24～26℃，其余市县21～24℃。1日白天我省出现分散性（雷）阵雨天气，湛江、茂名、阳江、江门、广州、清远、梅州和韶关雨势较为明显，局部出现强降水，茂名的茂巷区和信宜出现8级左右的短时雷雨大风，韶关的始兴县还出现9级左右的短时雷雨大风；根据全省气象站网的监测，1日08时至1日17时，茂名高州市东岸镇录得全省最大雨量45.6毫米；还有42个自动气象站录得25～50毫米雨量。白天最高气温：北部和粤东大部市县26～30℃，其余大部市县30～32℃，其中湛江的徐闻站录得全省最高气温35.3℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;广州市1日早晨阴天到多云，最低气温24℃，较4月30日上升了1.8℃，1日白天出现分散性（雷）阵雨天气，萝岗观象台录得11.5毫米雨量，白天录得最高气温30℃，较29日下降了2.1℃。相对湿度介于63%～91%，能见度介于18到30公里。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;二、未来几天天气预报&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;预计，受热低压槽和偏南暖湿气流影响，2-3日，粤北、粤西和珠江三角洲北部市县有中到大雨（雷雨）局部暴雨,及伴有强降雨和雷雨大风等强对流天气，其余市县有分散阵雨或雷阵雨。粤西和珠江三角洲大部市县气温24～32℃，其余市县21～31℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;4日，粤北和粤东市县多云到阴天，有中（雷）阵雨，局部大雨到暴雨，及伴有强降雨和雷雨大风等强对流天气，其余市县多云，有分散阵雨或雷阵雨。粤西和珠江三角洲大部市县气温25～33℃，其余市县21～30℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;广州市：5月2日，阴天到多云有雷阵雨，23℃～29℃，相对湿度介于55%～95%，吹轻微的偏南风；5月3日，多云间阴天有短时阵雨，24℃～31℃，相对湿度介于50%～90%，吹轻微的偏南风；5月4日，阴天，24℃～30℃，吹轻微的偏东风。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;三、关注和建议&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;1、目前是强对流天气多发时节，请注意防御雷电、局地短时大风和强降水及其可能引发的山体滑坡和泥石流等次生灾害。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;2、雨天路滑，能见度差，外出旅游请注意水陆交通安全。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Thu, 30 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320263600030</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-30T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>广东北部强降水，五一出行防暴雨</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320280900031</link>
+      <description>&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;风雨实况回顾：粤北雨&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;昨天至今晨（4月30日08时至5月1日08时），我省北部地区普降阵雨，部分地方雨强较大，并伴有雷暴天气。南雄出现全省最大雨量93.5毫米，德庆出现24.7 米/秒（10级）的大风。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;珠三角地区也出现分散性阵雨。南部地区，特别是西南部，只是局部性阵雨，干旱缺水依旧。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;三天天气趋势：粤北还是雨&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;预计，“五·一”期间广东天气处不稳定状态，雷雨明显，局地有短时强降水和8级左右的雷雨大风等强对流天气。来看看哪些地方有雨：&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;1日，粤北（韶关、清远、肇庆、河源）大部有中雨局部暴雨，并伴有雷暴！粤西多云到阴天有阵雨或雷阵雨。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;2-3日，粤北、粤西和珠江三角洲北部市县有中到大雨局部暴雨，并伴有雷暴，其余市县有分散阵雨或雷阵雨。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;4日，粤北和粤东多云到阴天，有中阵雨，局部大雨到暴雨，其余市县多云，有分散阵雨或雷阵雨。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;气象专家提醒：注意防御强对流！&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;经过多日的雨水浸泡，部分山区出现山体滑坡、泥石流等次生灾害的风险较高，粤北山区路险地滑，行经时要特别注意安全。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;另外，提早做好防御强对流的准备，在路过面临危险时才能及早防御。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p style="text-align:left;margin-left:14px;"&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;关注“&lt;/span&gt;&lt;span style="font-size:14px;"&gt;广东天气&lt;/span&gt;&lt;span style="font-size:14px;"&gt;”微信号，缤纷微天气给你最全防御指南。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&#xD;
+	&lt;div style="text-align:left;"&gt;&#xD;
+		&lt;span style="line-height:1.5;"&gt;&lt;/span&gt;&#xD;
+	&lt;/div&gt;&#xD;
+&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Thu, 30 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320280900031</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-30T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>南方地区有较强降水 南疆盆地内蒙古西部有沙尘</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320150400023</link>
+      <description>&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据中央气象台预报：4月30日至5月2日，我国中东部地区自西向东将有一次降水过程，其中，西南地区东部、西北地区东南部、江汉南部、江淮西部、江南中西部、华南北部等地有大雨，贵州北部、湖南东北部、湖北东部、广西北部等地的部分地区有暴雨（50～80毫米），局地并伴有雷雨大风等强对流天气。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;中央气象台4月30日06时继续发布沙尘天气预报。受大风影响，预计4月30日08时至5月1日08时，新疆东北部和南疆盆地、内蒙古西部、甘肃西北部、青海柴达木盆地等地的部分地区有扬沙或浮尘，南疆盆地西南部、内蒙古西部局地有沙尘暴。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;p&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月30日至5月2日，西藏震区以多云天气为主，部分时段有弱阵性降雪（雨）。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt; 未来三天具体预报&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月30日08时至5月1日08时，西藏东北部和青海东部的部分地区有阵雪或雨夹雪；西北地区中东部、内蒙古中东部、黑龙江西部、华北西部、西南地区北部和东部、江汉西部、江南中西部和南部、华南等地有小到中雨，其中，四川盆地中部和北部、贵州东北部、湖南西北部等地的部分地区有大雨，局地暴雨，上述地区并伴有雷暴。新疆东部、甘肃西部、内蒙古大部等地有4～6级风。新疆南疆盆地、甘肃西部、内蒙古西部等地有扬沙或浮尘，局地有沙尘暴。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;5月1日08时至5月2日08时，西藏东北部等地的部分地区有小雪或雨夹雪；华北东部和西南部、黄淮南部、江淮中西部、江汉、江南中西部、华南西北部、重庆中东部、贵州东部等地的部分地区有中雨，其中，河北西南部、江汉大部、江淮西部、湖南北部、江西北部、广西北部等地的部分地区有大雨，湖北东部、湖南东北部、江西西北部、广西北部局部有暴雨(50～80毫米)。上述部分地区并伴有强对流天气。新疆东部、内蒙古中部等地有4～6级风。新疆南疆盆地西部等地的部分地区有扬沙或浮尘。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;5月2日08时至5月3日08时，青海东部和南部等地的部分地区有阵雪或雨夹雪；内蒙古东北部、东北地区东部和南部、河北东部、黄淮东部、江淮东部、江南大部、华南、贵州大部等地的部分地区有小到中雨，其中，江苏南部、湖南东南部、江西南部、福建西北部、广东北部的部分地区有大雨，局地暴雨。上述部分地区并伴有强对流天气。内蒙古中部等地有4～6级风。&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Wed, 29 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320150400023</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-29T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>西藏震区持续雨雪天气</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320162800024</link>
+      <description>&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据中央气象台预报：西藏震区29日有雨雪天气，白天以雨夹雪为主，夜间转为小雪。4月30日至5月1日为多云。&lt;/span&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月30日至5月1日，中东部地区将有明显降水，其中，西南地区东部、西北地区东南部、江汉南部、江淮西部、江南中西部、华南北部等地有大雨，四川盆地北部、重庆西部、贵州东北部、湖南北部、湖北东南部、江西西北部等地的部分地区有暴雨（50～70毫米），上述部分地区并伴有强对流天气。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;未来三天具体预报&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月29日08时至4月30日08时，青藏高原中部和东部的部分地区有阵雪或雨夹雪；甘肃南部、江南东北部和南部、西南地区大部、华南等地有小到中雨，局部地区有大雨，并伴有强对流天气。甘肃西部、内蒙古中西部等地有5～6级风。新疆南疆盆地、甘肃西部等地有扬沙或浮尘，局地有沙尘暴。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月30日08时至5月1日08时，青藏高原中部和东部的部分地区有阵雪或雨夹雪；西北地区东部、华北西部、西南地区东部、江南西南部、华南北部等地的部分地区有中到大雨，其中，陕西西南部、四川盆地北部、重庆西部、贵州东北部的局部地区有暴雨，上述部分地区并伴有强对流天气。新疆东部、内蒙古中西部等地有5～6级风。新疆南疆盆地、内蒙古西部等地的部分地区有扬沙或浮尘，局地有沙尘暴。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;5月1日08时至5月2日08时，青藏高原中部的部分地区有阵雪或雨夹雪；陕西东南部、华北中东部、西南地区东部、黄淮西南部、江汉、江淮西部、江南中西部、华南北部等地有中到大雨，其中，湖北东南部、湖南东北部、江西西北部、广西东北部等地的部分地区有暴雨，上述部分地区并伴有强对流天气。内蒙古东部、东北地区南部等地的部分地区有4～6级风。&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Tue, 28 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320162800024</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-28T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>五一假期广东省大部有雷雨 需防范局地雷电和强降水</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320292400032</link>
+      <description>&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;一、天气实况&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;29日白天，我省大部阴天间多云，粤北、粤东和粤西的部分市县出现了（雷）阵雨天气，局地雨势强烈。根据全省气象站网的监测，29日08时至29日17时，全省共有3个气象站录得50～100毫米暴雨，其中揭东县玉滘镇官硕村镇政府录得全省最大雨量54毫米；有26个自动气象站录得25～50毫米大雨。全省有4个自动站在午后录得了8级左右的大风，其中徐闻县下桥镇南华农场录得最大风速18.5米/秒。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;29日白天我省北部偏北地区受到降水影响，最高气温较28日下降1-4℃，其中南雄和乳源分别下降了6和7℃，其余大部分市县较28日有1-3℃不同程度上升，具体分布为：韶关、清远北部市县介于26～29℃，其余大部市县介于30～33℃之间，丰顺录得全省最高气温33.8℃；29日早晨最低气温分布：北部偏北市县介于19～21℃之间，较28日下降了1-2℃，其余市县22～24℃，较28日上升了1-2℃左右；另外，29日早晨除南部沿海市县外，我省大部市县出现轻雾。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;广州市29日白天，多云间阴天，早晨出现了轻雾，广州观象台（萝岗）录得29日白天最高气温32.9℃，较28日上升了2.7℃；29日早晨最低气温21.6℃，较28日下降了0.2℃，能见度介于5.0～20公里之间，相对湿度介于51%～92%。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;二、未来几天天气预报&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;预计，“五·一”期间南海海域无热带气旋活动，也无明显冷空气影响我省。受弱低槽影响，我省天气不太稳定，粤北、珠江三角洲市县多（雷）阵雨天气，局地有短时强降水和8级左右的雷雨大风等强对流天气，具体预报如下：&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;30日，粤北、珠江三角洲及粤东市县有（雷）阵雨局部暴雨，其余市县多云间阴天，有短时阵雨。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;5月1日，韶关、清远和肇庆有中到大雨局部暴雨，粤西多云到阴天有阵雨，其余市县多云间阴天，局部有阵雨。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;5月2日，粤北、珠江三角洲部分市县有中到大雨局部暴雨,其余市县多云间阴天，有（雷）阵雨。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;5月3日，粤北和珠江三角洲市县多云间阴天，有（雷）阵雨，其余市县多云，局部有阵雨。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;广州市：&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;30日，多云到阴天，有雷阵雨，气温介于22到29℃之间，中心城区气温23到30℃，相对湿度介于65%～95%之间，吹轻微的东南风；&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;5月1日，多云，有短时阵雨，气温介于22到29℃之间，相对湿度介于60%～92%之间，吹轻微的偏南风；&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;5月2日，多云间阴天，有（雷）阵雨，22℃～28℃，吹和缓的偏南风。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;三、关注和建议&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;1、“五·一”期间雷电现象明显，天气多变，注意防御雷电、局地短时大风和强降水及其可能引发的山体滑坡和泥石流等次生灾害。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p style="margin-left:14px;"&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;2、雨天路滑，能见度差，外出旅游请注意水陆交通安全。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Tue, 28 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320292400032</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-28T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>中央气象台继续发布强对流预警</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320181000025</link>
+      <description>&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据中央气象台预报：28日白天，山南地区南部多云间阴天，高海拔地区有阵雪；28日夜间至29日白天，有小雪（雨）天气过程，局地中雪；30日转为多云天气。&lt;/span&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;预计4月28日08时至29日08时，山东南部、安徽中东部、江苏、江西南部、广西东北部和西北部、云南南部等地的部分地区有短时强降水，预计小时雨强可达30-50毫米，局地可超过60毫米。山东中西部、安徽中东部、江苏、浙江西北部等地的部分地区有雷暴大风或冰雹天气。中央气象台4月28日06时继续发布强对流天气蓝色预警。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;p&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;未来三天具体预报&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+	&lt;p&gt;&#xD;
+		&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月28日08时至29日08时，青藏高原中部和东部的部分地区有阵雪或雨夹雪；新疆北部和沿天山地区、华北东部、黄淮中东部、江淮、江南中南部和东北部、华南中北部、西南地区南部等地有小到中雨，局部地区有大到暴雨（30～55毫米），并伴有强对流天气。新疆北部和东部、甘肃西北部、内蒙古西北部等地有5～6级风，新疆山口地区风力可达7～8级。新疆南疆盆地、甘肃西北部等地有扬沙或浮尘，局地有沙尘暴。&lt;/span&gt;&#xD;
+	&lt;/p&gt;&#xD;
+&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月29日08时至30日08时，青藏高原北部和东部、青海南部和东部的部分地区有阵雪或雨夹雪；西南地区西部和南部、江南西南部、华南等地有小到中雨，其中，广西北部、广东北部的部分地区有大雨，上述部分地区并伴有强对流天气。新疆东部、内蒙古西部等地有5～6级风，南疆盆地、内蒙古西部的部分地区有扬沙或浮尘，局地有沙尘暴。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月30日08时至5月01日08时，青藏高原东部、青海南部和东部的部分地区有阵雪或雨夹雪；西北地区东部、西南地区大部、江南西部、华南、内蒙古中东部等地有小到中雨，其中，甘肃东南部、四川盆地中部、陕西西南部、贵州北部、湖南西南部、广西北部、广东北部的部分地区有大雨，局地暴雨（50～60毫米），上述部分地区并伴有强对流天气。内蒙古西部等地有4～6级风。&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Mon, 27 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320181000025</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-27T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>南方地区持续阴雨天气 华北东北等地气温明显偏高</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320195000026</link>
+      <description>&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据中央气象台预报：24日至25日，西南地区、华南、江南大部等地有阴雨天气，其中，云南东部和南部、西藏东南部、海南岛等地的部分地区有中到大雨；上述部分地区并伴有雷暴。&lt;/span&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;24-26日，我国北方大部地区气温呈明显回升趋势，其中25-26日，华北平原大部、内蒙古东南部、东北地区西南部以及新疆等地的部分地区最高温度可达30℃以上。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;未来三天具体预报&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月24日08时至25日08时，西藏东北部等地的部分地区有小雪或雨夹雪；黑龙江东部、西藏东南部、西南地区大部、江南大部、华南大部等地有小雨或阵雨，其中，云南东部和南部、西藏东南部、海南岛等地有中雨，局地有大雨。上述部分地区并伴有雷暴。内蒙古东部、东北地区北部等地有4～5级风。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月25日08时至26日08时，西藏东北部和南部等地的部分地区有小雪或雨夹雪；西藏东南部、西南地区西部和南部、西北地区东部、江南南部、华南大部等地有小到中雨，其中，云南东部等地的部分地区有大雨。上述部分地区并伴有雷暴。内蒙古东部、东北地区中南部等地有4～6级风。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月26日08时至27日08时，西藏东北部和南部等地的部分地区有小雪或雨夹雪；西藏东南部、西南地区西部和南部、贵州、陕西北部、河南西部、华北西部、江南大部、华南北部等地有小到中雨，其中，云南东北部、贵州东南部、湖南西南部、江西东南部等地的部分地区有大雨。上述部分地区并伴有雷暴。东北地区中南部、山东半岛东部、新疆北疆西部等地有4～6级风，其中，新疆北疆西部山口风力可达8级。新疆南疆盆地的部分地区有扬沙或浮尘。&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Thu, 23 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320195000026</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-23T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>南方地区有阴雨天气 弱冷空气影响内蒙古及东北地区</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320213800027</link>
+      <description>&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据中央气象台预报：23日至25日，西南地区、华南、江南大部等地有阴雨天气，其中，云南大部、四川南部、广西西南部和东南部、海南岛、西藏东南部等地的部分地区有中到大雨；上述部分地区并伴有雷暴。&lt;/span&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;23日至24日，受弱冷空气影响，内蒙古中东部、东北地区大部、华北北部和东部等地有4～6℃降温，局地降温幅度可达8℃左右，上述地区并伴有4～6级风；内蒙古中东部和西部的部分地区有扬沙或浮尘；内蒙古东北部、东北地区中东部有小雨。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;未来三天具体预报&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月23日08时至24日08时，西藏中部偏南地区、青海东部等地的部分地区有雨夹雪；内蒙古东北部、黑龙江大部、吉林东部、西藏东南部、西南地区大部、江南中西部、华南大部等地有小到中雨或阵雨，其中，西藏东南部、海南岛西部等地的局地有大雨。内蒙古中东部、东北中南部、华北北部和东部、山东半岛等地有4～6级风。内蒙古中部等地的部分地区有扬沙或浮尘。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月24日08时至25日08时，西藏中部偏南地区有雨夹雪；西南地区大部、江南大部、华南中西部、台湾、东北地区东部、西藏东部等地有小到中雨或阵雨，其中，云南东南部的局地有大雨。内蒙古东部、东北地区北部等地有4～6级风。台湾海峡、南海东北部有5～7级、阵风8级的东北风。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月25日08时至26日08时，西藏中部偏南地区有雨夹雪；西北地区东部、西南地区大部、西藏东部、江南南部、华南、台湾、新疆西北部、东北地区北部等地有小到中雨或阵雨，其中，云南南部的局地有大雨。内蒙古中东部、东北地区中南部等地有4～6级风。台湾海峡、南海东北部有6～7级、阵风8级的东北风。&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Wed, 22 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320213800027</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-22T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>雷雨大风“爽约” 东莞市已进入暴雨季节</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015042717401200000</link>
+      <description>&lt;p&gt;&#xD;
+	&amp;nbsp; &amp;nbsp; 受冷空气及高空槽影响，4月20日，我省中、北部普遍出现了雷雨大风、局部冰雹等强对流天气，而由于雷雨云带位置偏北，从东莞北部擦肩而过，白天时间并未出现强对流天气。说好的大雷雨天未至，但不少市民还是关心东莞的防汛备汛情况如何？是否还会出现像去年“5·11”洪涝灾害造成人员伤亡？市民应做好哪些防御工作？记者就此专访了东莞市三防办、气象台有关负责人。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;部分镇街出现阵雨天气&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月20日正值二十四节气中的谷雨，源自古人“雨生百谷”之说。这一天东莞只有局部地区出现阵雨天气，白天并未造成城市内涝等现象。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;东莞市气象台台长黄峰说，由于雷雨云带位置偏北，从东莞北部擦过，截至20日下午4时，全市并未出现雷雨大风、强降水等天气，当日下午由于冷空气的到来，部分镇街出现了阵雨，局部有雷暴，气温也明显下降，幅度达5℃—6℃。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;今年将有2—3个热带气旋袭粤&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;东莞市三防办有关负责人表示，2015年汛期的降水量正常或比往年偏多10%左右，但有部分地区可能会出现旱涝互现的情况。预计东江干流的洪水比去年要大，局部小流域不排除有发生大洪水的可能。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;东莞市三防办预计，今年将有2—3个热带气旋登陆广东，其中可能有0—1个热带气旋登陆或严重影响珠江口，带来灾害性海浪过程，过程持续时间2天左右，主要影响时间集中在7—9月份，期间可能出现1—2次严重风暴潮灾害，重点为珠江口和粤西岸段。三防办已将上述情况通过内部情况通报的形式通报给全市各有关单位。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;东莞市气象台预计&lt;/strong&gt;&amp;nbsp;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;20日夜间仍受高空槽及冷空气影响，全市阴天，有阵雨或雷阵雨，间中雨势较大，并将伴有短时雷暴或雷雨大风。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;21日起降雨减弱并趋于停歇，但日温差小，天气较清凉。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;22日—24日阴天间多云，间中有小雨，天气仍较清凉。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;东莞市气象台提醒：东莞已逐渐进入暴雨和强对流天气多发季节，请关注最新气象预警信息，并注意防御雷击、强降水和雷雨大风及其引发的城乡积涝、地质灾害、厂房工棚、临时构筑物、户外广告牌倒塌等灾害；气温变化大，请注意适时增减衣物，谨防感冒。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;■&lt;/strong&gt;&lt;strong&gt;相关&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;霄边站排涝标准20年一遇&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;记者4月20日从东莞市长安镇了解到，霄边排涝站工程已经基本完工，一旦有需要，可以立即应急使用。届时，东莞市长安镇将有8座排涝站可同时投入运行，进一步增强全镇防汛排涝能力。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;日前，记者在霄边排涝站了解到，40多米的左右岸防浪墙也已经和东莞市原茅洲河防浪墙实现对接，工作人员正在进行日常监测等工作。此前设计要求三个泵组已经全部安装完毕，并通过验收。另外，排涝站检修闸、自排闸及泵房等三大工程的主体已经完成，排涝站的机组已经调试完毕。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据现场工作技术人员介绍，三个泵组同时启动可使排涝总流量达到30立方米/秒，届时可基本缓解霄边，包括涌头、咸西、锦厦这几个社区大约十平方公里范围的内涝压力。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据了解，霄边排涝站位于霄边社区振安路段，区域集雨面积为4.05平方公里，主要承担霄边社区范围内的排涝任务及上游莲花山水库的下泄洪水。该排涝站包括泵站和水闸两部分，其中泵站设计总装机容量2130千瓦，安装3台1.6米口径的轴流水泵，总设计排涝流量每秒30.06立方米；水闸设2孔，总净宽12米，设计流量为每秒79.1立方米。设计排涝标准为20年一遇24小时暴雨一天排干，防洪标准为百年一遇洪水。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;如何应对&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;防汛落实行政首长负责制&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4月20日上午，东莞市副市长鲁修禄在调研水务三防工作时指出，从三防会商分析情况来看，今年总体雨量偏高，汛期推迟，可能出现干旱，但也须谨防密集降雨。要从更加严峻的三防形势着手，重视内涝、洪水防御工作，做足应对措施、备足应急物资。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;鲁修禄强调，要强化三防信息基础工作，不断积累基本信息资料，进一步研究信息传递与共享，让管理者全面掌握基础信息。要积极协调推进安全隐患的整改。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;三防办有关负责人表示，为认真贯彻落实以行政首长负责制为核心的各级三防责任制度。东莞市三防指挥部及时调整了全市三防指挥部成员名单，成员单位共29个，印发了《关于调整2015年三防督导组人员的通知》。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;该负责人说，全市32个镇街、1个园区和24宗市属重点水利工程组建了相应的三防指挥机构。市、镇街（园区）、村（社区）三级层层签订地区防汛安全责任书，共签订了626份责任书。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据统计，全市共有121座水库、127段堤防、360座水闸明确了防汛行政责任人与防汛技术责任人。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	4月15日，东莞市三防指挥部在媒体上刊登了2015年度东江堤围、海堤、中型水库和小（1）型水库防汛责任人名单，共161人向社会公布并接受社会监督。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;236座排涝机电设备正常运行&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;“去年3·30提前入汛的极端天气以及5·11洪涝灾害一再提醒我们，三防安全责任重于泰山，一刻也不能放松，必须未雨绸缪及早开展2015年汛前备汛工作。”东莞市三防办负责人说，春节前，东莞就启动部署防汛备汛工作，按照“工程单位自查、镇街（园区）核查、市级复查督查”机制开展。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据统计，全市36个三防视频会商平台通讯设备和47套应急保障系统正常运行。已建成运行的排涝站236座机电设备经检查无发现重大安全隐患，内涝应急能力得到有效保障。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;三防办负责人说，本次统筹发挥市三防成员单位的职能职责，组织开展相关行业防汛防台风准备工作。东莞市水务、城管、国土、交通、农业、民政、供电、电信等部门对重点部位进行了认真细致的排查。3月9日至13日，市政府派出6个检查组前往全市各镇街（园区）和重点水利工程管理单位全面检查防汛备汛工作，汛前检查循序渐进、扎实开展。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;已建成两个市级防汛仓库&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;针对汛前检查排查出的隐患问题，东莞市三防办会同市水务局制定《全市汛前隐患治理督导工作方案》。3月23日至31日，已由市水务局领导同志分片区进行专项督导。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;上述负责人透露说，东莞已建成塘厦、峡口防汛两个市级仓库，防汛物资储备量大幅度提高，今年将新建第三个市级沙田仓库，将进一步提升覆盖全市防汛物资保障。同时，市三防指挥部组建了以骨干民兵为主力的专业防汛抢险队伍，4月20日起将联合军分区开展民兵轻舟大队集训演练，训练时间为5天，人数160人，有利于进一步加强防汛抢险能力。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;此外，备受关注的三防指挥中心建设正有条不紊地进行施工。其中，装修工程已完工待验收，会商系统的设备已完成安装，目前正在加紧调试中，预计5月份能正常投入使用。&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Mon, 20 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015042717401200000</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-20T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>暴雨将至 东莞市东江沿岸各镇准备好了</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050319551600018</link>
+      <description>&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;目前，东莞市已经进入汛期，昨日气象部门发布信息，受高空槽和冷空气影响，从19日开始到21日，广东自北向南先后有一次大雨局部暴雨降水过程，并伴有8级以上雷雨大风、短时强降水、局地冰雹等强对流天气，各地气温将明显下降。东莞市东江沿岸石龙、石排、企石等镇东江防汛排涝设施已各就各位，确保汛期安全。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;防汛设施准备到位&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;昨日，石龙镇组织工作人员在石龙围、山洲围、东莞大堤石龙西湖段共储备了防洪纺织袋5万个，锄头220把、铁铲200把、粗砂250立方、大石20立方、土工膜布3卷等防汛抢险物资，并计划增加防汛砂石的储备，为日后防汛抢险提供物资保障。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;据东莞市石龙水利部门预测分析，2015年东江干流洪水要高于去年，预测今年汛期东莞市石龙最高水位为4米，全年降水量为1900毫米至2000毫米。石龙水利部门相关负责人介绍，汛期防汛主要任务是严防城市内涝、洪水和台风。石龙镇内除了加强水利工程的巡查工作，确保相关设备运行正常外，还加强了水利工程隐患整治。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;去年，东莞市石龙镇分别对石龙围石湾大桥引桥至新街口水闸险段进行除险加固；对沿江路路面进行修复，确保防洪抢险通道顺畅；对北石堤16个旱闸口进行整修，还定期对镇内的排水涌和下水道进行全面的清淤疏通，加强河道水域面源垃圾清理工作。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;strong&gt;下水道疏通防内涝&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;去年以来，东莞市企石镇共投入19万元，对全镇1850套下水道井口加装了安全网，并更换了28套破损的井盖。近日，该镇还安排环卫工人对镇内主要街道的下水道进行了及时的疏通，避免暴雨来临时出现“水浸街”现象。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;“3月份开始，我们已经对镇中心区的下水道做了疏浚。下周就有连续暴雨，我们对此也不敢松懈。”该中心相关负责人介绍，下水道最容易出现残留的垃圾和淤泥，一旦堵塞就容易造成“水浸街”。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;工作人员目前正利用目前天气晴好的时间，抢抓机会进行疏通。工作人员除了要把下水井盖打开，将里面残留的垃圾和淤泥打捞上来集中运走之外，还必须时刻注意警示牌和警示标志的设置，以免造成行人和车辆的通行不便。&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;东莞市企石镇公用事业服务中心表示，气象台发布信息今明两日有强降雨，他们将持续留意下水道情况，加强镇内下水道井盖、地漏的检查，安排人员对马路雨水收集地漏的淤泥进行定期清理，防止堵塞情况的发生。&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Sun, 19 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050319551600018</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-19T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>东莞市本月进入汛期 降水量预计比往年多10%</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050319561300019</link>
+      <description>&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;东莞将在本月中旬进入汛期，预计今年汛期的降水量正常或比往年偏多10%左右，但有部分地区可能会出现旱涝互现的情况。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;预计东江干流的洪水比去年要大，局部小流域不排除有发生大洪水的可能。另外，预计今年将有2-3个热带气旋登陆广东，其中可能有0-1个热带气旋登陆或严重影响珠江口，带来灾害性海浪过程，过程持续时间2天左右，主要影响时间集中在7-9月份。期间可能出现1-2次严重风暴潮灾害，重点为珠江口和粤西岸段。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Mon, 06 Apr 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050319561300019</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-04-06T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>惠州倒春寒，蔬菜盖上被子</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050319570300020</link>
+      <description>&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;昨日在惠州市龙门县平陵镇、惠州市龙江镇等地看到，许多蔬菜种植户忙着为蔬菜加盖薄膜。菜农老张说，昨日气温低，遇到了倒春寒，很多蔬菜都受冻了，没有受冻的也生长缓慢，加盖薄膜就是为了给它们保暖。&lt;/span&gt;&lt;span style="font-size:14px;"&gt;&lt;/span&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Tue, 10 Mar 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050319570300020</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-03-10T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>受天气影响 东莞市樟木头今年冬蜜几近绝产</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050319593700021</link>
+      <description>&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;眼下正是鸭脚花开花的季节，按理说已经进入采集冬蜜的旺季。不过记者走访东莞市樟木头发现，由于天气影响，冬蜜产量大受影响，几近绝产。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;东莞市樟木头镇金河社区上南村的兴叔有近30年的养蜂经验，目前养有蜜蜂接近50群，去年入冬以来还没开始打一次蜂蜜，这种情况是前所未见的。兴叔介绍，按照往年到现在这个时间起码打蜜4次到5次，今年一次都没打。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;兴叔介绍，现在本应是鸭脚花开花的季节，由于近两个月天气变化不定，忽冷忽热，蜜蜂出去采蜜的质量不高，回来的糖最多只够蜜蜂自己食用，根本就不能形成蜜糖。前段时间热，今年完全没有糖，养二十几年蜜都没有见过这样。没糖打，采到的那些糖够蜜蜂自己吃，没得打蜜。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;兴叔说，直到近期天气才终于开始稳定下来，蜜蜂采蜜开始正常一些，预计再过一段时间会迎来今年冬蜜的第一次收成，不过总体产量将严重下降。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;兴叔表示，现在天气转暖了，开始有些糖回来，可能下个星期有得打蜜。预计打差不多100斤，往几年可以打400、500斤。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Tue, 06 Jan 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050319593700021</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-01-06T16:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>冷空气今晚起影响东莞市</title>
+      <link>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320061000022</link>
+      <description>&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;今日零时21分，迎来小寒。小寒是二十四节气中倒数第二个节气，如果按公历计算，小寒节气出现在每年1月5日至7日之间，是每年的第一个节气。小寒过后就只剩最后一个节气——大寒，离过年已经不远了。而受冷高压脊影响，东莞市1日到4日以晴朗干燥为主，白天阳光充沛暖和，早晚寒冷，最高气温达到21-22℃，最低气温为9-10℃，可以说这样的气温令人感觉舒适。然而，从今天晚上起，新一股冷空气开始影响东莞市，预计该股冷空气过程降温幅度为5-6℃。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;昨日，东莞市转阴天间多云为主，间中有短时分散小雨，气温继续回升，到下午5时止，录得昨日早晨最低气温为16-17℃，午间最高气温为23-24℃；南城板岭测站录得的气温为16.7-23.7℃，相对湿度为68%-87%，空气湿度明显增大。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;预计东莞到今天白天仍是以阴天间多云天气为主，间中有分散小雨，天气温暖，有轻度雾霾；但从夜间新一股冷空气开始影响东莞市，东莞气温逐渐下降，北风加大并伴有分散小雨，雾霾消散，8日起转多云；预计该股冷空气过程降温幅度为5-6℃，最低气温将降至9-10℃，出现在9-10日早晨。&lt;/span&gt;&#xD;
+&lt;/p&gt;&#xD;
+&lt;p&gt;&#xD;
+	&lt;span style="font-size:14px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;东莞市气象局提醒：天气变化快，早晚寒冷，请注意适时添加衣物预防感冒；注意用电、用气安全，特别是燃气热水器使用需注意保持室内通风透气，谨防一氧化碳中毒；天气持续干燥，请注意家居、森林防火安全工作；雨雾时能见度低，请注意交通安全。&lt;/span&gt;&#xD;
+&lt;/p&gt;</description>
+      <category>农业气象</category>
+      <pubDate>Mon, 05 Jan 2015 16:00:00 GMT</pubDate>
+      <guid>http://localhost:8080/gdzyzmmv2/push/aidetail.action?id=2015050320061000022</guid>
+      <dc:creator>广东专业镇信息服务平台</dc:creator>
+      <dc:date>2015-01-05T16:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

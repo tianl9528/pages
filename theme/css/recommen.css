@@ -1,0 +1,33 @@
+﻿@charset "utf-8";
+*{padding:0;margin:0;list-style-type:none;}
+/*body{height:2000px;}*/
+a{text-decoration:none;}
+
+/* float_layer */
+.float_layer{border:1px solid #0aa2e6;display:none;background-color:#FFF;}
+.float_layer h2{height:25px;line-height:25px;padding-left:10px;font-size:16px;color:#333;background:url(../images/title_bg.gif) repeat-x;border-bottom:1px solid #0aa2e6;position:relative;}
+.float_layer .min{width:21px;height:20px;background:url(../images/min.gif) no-repeat 0 bottom;position:absolute;top:2px;right:25px;}
+.float_layer .min:hover{background:url(../images/min.gif) no-repeat 0 0;}
+.float_layer .max{width:21px;height:20px;background:url(../images/max.gif) no-repeat 0 bottom;position:absolute;top:2px;right:25px;}
+.float_layer .max:hover{background:url(../images/max.gif) no-repeat 0 0;}
+.float_layer .close{width:21px;height:20px;background:url(../images/close.gif) no-repeat 0 bottom;position:absolute;top:2px;right:3px;}
+.float_layer .close:hover{background:url(../images/close.gif) no-repeat 0 0;}
+.float_layer .content2{height:250px;width:500px;overflow:hidden;font-size:14px;line-height:18px;color:#666; }
+.float_layer .wrap2{padding:10px 10px 4px 10px;}
+
+.wrap2 ul li{line-height:35px;font-size:14px;font-family:'宋体';border-bottom:1px dashed #ccc;padding-left:16px;background:url(/FirstPage/images/list.gif) no-repeat left center;}
+.nl{color:#585858;}
+a.nl:hover{color:#0378b5;}
+li a{font-family:'宋体';font-size:14px;line-height:30px;letter-spacing:1px;}
+h2{margin-top:0px;}
+
+
+/* leftsead */
+#leftsead{width:131px;height:143px;position:fixed;top:120px;right:0px;}
+*html #leftsead{margin-top:258px;position:absolute;top:expression(eval(document.documentElement.scrollTop));}
+#leftsead li{width:131px;height:60px;}
+#leftsead li img{float:right;}
+#leftsead li a{height:49px;float:right;display:block;min-width:47px;max-width:131px;}
+#leftsead li a .shows{display:block;}
+#leftsead li a .hides{margin-right:-143px;cursor:pointer;cursor:hand;}
+#leftsead li a.youhui .hides{display:none;position:absolute;right:190px;top:2px;}

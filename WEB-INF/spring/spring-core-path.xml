@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING/DTD BEAN//EN" 
+	"http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+
+	<!-- 服务器环境 -->
+	<bean id="localServerPath" class="sunit.app.sendMail.timer.LocalServerPath">
+		<property name="serverPath">
+			<value>http://chaos:9090</value>
+		</property>
+		<property name="contextPath">
+			<value>/mail</value>
+		</property>
+		<property name="realPath">
+			<value>E:/eclipse/workspace/SendMailSystem_V2/pages</value>
+		</property>
+		<property name="billPath">
+			<value>/bill/bill-create.action?checkName=[]&amp;type=1&amp;bid=</value>
+		</property>
+		<property name="activityPath">
+			<value>/mail/mailActivity-create.action?id=</value>
+		</property>
+	</bean>
+</beans>
